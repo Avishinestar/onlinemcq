@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated/Temporary files
+pdf_dump.txt

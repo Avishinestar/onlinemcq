@@ -1,0 +1,6177 @@
+{
+  "Introduction to Employability Skills": [
+    {
+      "question": "Which of the following options is an Employability Skill?",
+      "options": [
+        "Good Interview Skills",
+        "Good Communication Skills",
+        "Digital Skills",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "1"
+    },
+    {
+      "question": "An employee is someone who __________.",
+      "options": [
+        "Goes to school to study",
+        "Does not work",
+        "Works for a salary",
+        "Goes to play"
+      ],
+      "answer": "Works for a salary",
+      "id": "2"
+    },
+    {
+      "question": "Which are the two skills needed for good career growth?",
+      "options": [
+        "Watching TV & Making friends",
+        "Traveling & Shopping",
+        "Playing video games & cooking skills",
+        "Technical Skills & Employability Skills"
+      ],
+      "answer": "Technical Skills & Employability Skills",
+      "id": "3"
+    },
+    {
+      "question": "Gopi is always willing to learn and improve in his work. He has a_______.",
+      "options": [
+        "Fixed mindset",
+        "Certificate",
+        "Growth mindset",
+        "Marksheet"
+      ],
+      "answer": "Growth mindset",
+      "id": "4"
+    },
+    {
+      "question": "What are Employability Skills?",
+      "options": [
+        "Skills used only in sports",
+        "Skills needed to be successfully employed",
+        "Skills for good communication",
+        "Skills for playing video games"
+      ],
+      "answer": "Skills needed to be successfully employed",
+      "id": "5"
+    },
+    {
+      "question": "When we learn something online, it is called ______.",
+      "options": [
+        "Classroom learning",
+        "Teaching",
+        "E-learning",
+        "Digital marketing"
+      ],
+      "answer": "E-learning",
+      "id": "6"
+    },
+    {
+      "question": "Which of these is an advantage of learning online?",
+      "options": [
+        "Learn anytime & anywhere",
+        "Make friends with classmates",
+        "No need to study",
+        "Have shorter classes"
+      ],
+      "answer": "Learn anytime & anywhere",
+      "id": "7"
+    },
+    {
+      "question": "Which of these is an e-learning portal?",
+      "options": [
+        "ASEEM",
+        "Bharat Skills Portal",
+        "NAPS portal",
+        "Netflix"
+      ],
+      "answer": "Bharat Skills Portal",
+      "id": "8"
+    },
+    {
+      "question": "Ram works as a fitter in a company. He wants to upgrade his trade skills and employability skills in his free time. What should he do?",
+      "options": [
+        "Play sports",
+        "Watch news",
+        "Find courses: online or offline",
+        "Quit job"
+      ],
+      "answer": "Find courses: online or offline",
+      "id": "9"
+    },
+    {
+      "question": "Zeena wants to enroll for an e-learning course. The most important thing she needs is a________.",
+      "options": [
+        "Book",
+        "Pen",
+        "Mobile phone or Computer",
+        "Library card"
+      ],
+      "answer": "Mobile phone or Computer",
+      "id": "10"
+    },
+    {
+      "question": "In today\u2019s world, _________ have become a basic skill requirement in many jobs.",
+      "options": [
+        "Acting skills",
+        "Digital skills",
+        "Painting skills",
+        "Dancing skills"
+      ],
+      "answer": "Digital skills",
+      "id": "11"
+    },
+    {
+      "question": "______ jobs help to reduce pollution, preserve the environment and the planet.",
+      "options": [
+        "Software",
+        "Hardware",
+        "Green",
+        "Part-time"
+      ],
+      "answer": "Green",
+      "id": "12"
+    },
+    {
+      "question": "Green Jobs are important because _________.",
+      "options": [
+        "they help protect the environment",
+        "they harm the environment",
+        "they pay more money",
+        "they require no skill"
+      ],
+      "answer": "they help protect the environment",
+      "id": "13"
+    },
+    {
+      "question": "Geetha has just completed her education. She joined a basic English course to improve her _____ skills.",
+      "options": [
+        "Technical",
+        "Digital",
+        "Communication",
+        "Problem solving"
+      ],
+      "answer": "Communication",
+      "id": "14"
+    },
+    {
+      "question": "Ram wants to start his own business. He is considering two options - opening an audio cassette shop or starting an online retail business. Which of these options would you suggest?",
+      "options": [
+        "Online retail",
+        "Audio cassette shop",
+        "Anything is fine",
+        "Video rental store"
+      ],
+      "answer": "Online retail",
+      "id": "15"
+    }
+  ],
+  "Constitutional Values-Citizenship": [
+    {
+      "question": "Values and ethics help us build good _______.",
+      "options": [
+        "games",
+        "behavior",
+        "studies",
+        "rent"
+      ],
+      "answer": "behavior",
+      "id": "1"
+    },
+    {
+      "question": "Values decide the ______of a person.",
+      "options": [
+        "character",
+        "laptop",
+        "home",
+        "system"
+      ],
+      "answer": "character",
+      "id": "2"
+    },
+    {
+      "question": "It is not good to forward ________ on social media.",
+      "options": [
+        "fake news",
+        "messages",
+        "greetings",
+        "songs"
+      ],
+      "answer": "fake news",
+      "id": "3"
+    },
+    {
+      "question": "A person who respects and follows the law of a country is a ______.",
+      "options": [
+        "Businessman",
+        "Bad Employee",
+        "Responsible Citizen",
+        "Small Kid"
+      ],
+      "answer": "Responsible Citizen",
+      "id": "4"
+    },
+    {
+      "question": "Rita found somone\u2019s wallet in the office. She gives it to the office manager. This shows that she is _____.",
+      "options": [
+        "open-minded",
+        "honest & responsible",
+        "kind",
+        "non - judgemental"
+      ],
+      "answer": "honest & responsible",
+      "id": "5"
+    },
+    {
+      "question": "The Constitution Of India is also called as _______.",
+      "options": [
+        "Bharatiya Academy",
+        "Bhartiya Samvidhan",
+        "Novel",
+        "Newspaper"
+      ],
+      "answer": "Bhartiya Samvidhan",
+      "id": "6"
+    },
+    {
+      "question": "India is a Sovereign country. That means it can make its own_____.",
+      "options": [
+        "Money",
+        "State",
+        "Election",
+        "Rules and Decisions"
+      ],
+      "answer": "Rules and Decisions",
+      "id": "7"
+    },
+    {
+      "question": "Indian constitution is a set of ______ of our country.",
+      "options": [
+        "Laws and rules",
+        "Keys",
+        "Tools",
+        "Languages"
+      ],
+      "answer": "Laws and rules",
+      "id": "8"
+    },
+    {
+      "question": "Mr. Johnson wants to employ an 8 year old girl for household work. In India, which fundamental right would not allow it?",
+      "options": [
+        "Right to equality",
+        "Right to freedom of religion",
+        "Right against exploitation",
+        "Right to information"
+      ],
+      "answer": "Right against exploitation",
+      "id": "9"
+    },
+    {
+      "question": "Which fundamental right allows us to freely visit a temple, church, or mosque for prayer?",
+      "options": [
+        "Right to equality",
+        "Right to education",
+        "Right against exploitation",
+        "Right to freedom of religion"
+      ],
+      "answer": "Right to freedom of religion",
+      "id": "10"
+    },
+    {
+      "question": "Addition of harmful smoke, gases and chemicals to the environment in large quantities is called ______.",
+      "options": [
+        "Air",
+        "Pollution",
+        "Wind",
+        "Storm"
+      ],
+      "answer": "Pollution",
+      "id": "11"
+    },
+    {
+      "question": "Cutting down of trees for farming and housing purposes is called _______.",
+      "options": [
+        "Reforestation",
+        "Deforestation",
+        "Afforestation",
+        "Forestation"
+      ],
+      "answer": "Deforestation",
+      "id": "12"
+    },
+    {
+      "question": "Releasing chemicals, waste, plastics into the water is called _____.",
+      "options": [
+        "Sound pollution",
+        "Land pollution",
+        "Water Pollution",
+        "Air pollution"
+      ],
+      "answer": "Water Pollution",
+      "id": "13"
+    },
+    {
+      "question": "Scientists are warning us that the rise in earth\u2019s temperature causes ________.",
+      "options": [
+        "Deforestation",
+        "Land sliding",
+        "Pollution",
+        "Global warming"
+      ],
+      "answer": "Global warming",
+      "id": "14"
+    },
+    {
+      "question": "Shyam avoids the use of plastic and chemical fertilizers. He is practising a _____.",
+      "options": [
+        "Green lifestyle",
+        "Modern lifestyle",
+        "Busy lifestyle",
+        "Unhealthy lifestyle"
+      ],
+      "answer": "Green lifestyle",
+      "id": "15"
+    }
+  ],
+  "Becoming a Professional in the 21st Century": [
+    {
+      "question": "Major changes took place in the manufacturing world with _________.",
+      "options": [
+        "Green revolution",
+        "Milk revolution",
+        "Industrial revolution",
+        "White revolution"
+      ],
+      "answer": "Industrial revolution",
+      "id": "1"
+    },
+    {
+      "question": "The process of manufacturing has changed due to technology and _____development.",
+      "options": [
+        "Training",
+        "Scientific",
+        "Teaching",
+        "Facillitation"
+      ],
+      "answer": "Scientific",
+      "id": "2"
+    },
+    {
+      "question": "Regular assessment of skills is necessary for the growth of _______.",
+      "options": [
+        "Career",
+        "Interview",
+        "Job",
+        "Skill"
+      ],
+      "answer": "Career",
+      "id": "3"
+    },
+    {
+      "question": "Neetu has excellent story telling skills. What type of intelligence is it?",
+      "options": [
+        "Picture Smart",
+        "Logic Smart",
+        "Body Smart",
+        "Word Smart"
+      ],
+      "answer": "Word Smart",
+      "id": "4"
+    },
+    {
+      "question": "Swaraj is looking for internet-based/data entry jobs. What is the most important skill he needs?",
+      "options": [
+        "Basic computer skills",
+        "Entrepreneuria l skills",
+        "Beautician skills",
+        "Wood cutting skills"
+      ],
+      "answer": "Basic computer skills",
+      "id": "5"
+    },
+    {
+      "question": "Which of the following is not a part of one\u2019s personality?",
+      "options": [
+        "Strengths",
+        "Weaknesses",
+        "Beliefs",
+        "Skin colour"
+      ],
+      "answer": "Skin colour",
+      "id": "6"
+    },
+    {
+      "question": "Things that one is good at doing are ________.",
+      "options": [
+        "Concerns",
+        "Interests",
+        "Abilities",
+        "Passion"
+      ],
+      "answer": "Abilities",
+      "id": "7"
+    },
+    {
+      "question": "Inability to do something well is one\u2019s _____.",
+      "options": [
+        "Weakness",
+        "Aspiration",
+        "Strength",
+        "Value"
+      ],
+      "answer": "Weakness",
+      "id": "8"
+    },
+    {
+      "question": "Meena likes to learn music in her free time. It is one of her _____to improve.",
+      "options": [
+        "Logics",
+        "Interests",
+        "Value",
+        "Weakness"
+      ],
+      "answer": "Interests",
+      "id": "9"
+    },
+    {
+      "question": "Bijo is not good at MS excel. With his hard work, he learns to overcome weaknesses and turn them into a _________.",
+      "options": [
+        "Belief",
+        "Value",
+        "Leader",
+        "Strength"
+      ],
+      "answer": "Strength",
+      "id": "10"
+    },
+    {
+      "question": "The way we interact, manage and deal with our external environment is known as _______skills.",
+      "options": [
+        "Behavioural",
+        "Technical",
+        "Musical",
+        "Teaching"
+      ],
+      "answer": "Behavioural",
+      "id": "11"
+    },
+    {
+      "question": "_______ is one of the behavioral skills that is required to organize work efficiently and complete it on time.",
+      "options": [
+        "Painting",
+        "Cooking",
+        "Time Management",
+        "Dancing"
+      ],
+      "answer": "Time Management",
+      "id": "12"
+    },
+    {
+      "question": "The way we manage/solve the problem is called ________.",
+      "options": [
+        "Positive attitude",
+        "Conflict resolution",
+        "Negative attitude",
+        "Passion"
+      ],
+      "answer": "Conflict resolution",
+      "id": "13"
+    },
+    {
+      "question": "Rehana faced a problem with her project. She is dealing with a problem with the right attitude. This is an example of-",
+      "options": [
+        "Negative attitude",
+        "Technical skill",
+        "Scientific skill",
+        "Positive attitude"
+      ],
+      "answer": "Positive attitude",
+      "id": "14"
+    },
+    {
+      "question": "Alpan does yoga in the morning. He follows Youtube classes to motivate himself. This is an example of _________.",
+      "options": [
+        "Self-motivation",
+        "Time Management",
+        "Decision-Making",
+        "Problem- Solving"
+      ],
+      "answer": "Self-motivation",
+      "id": "15"
+    },
+    {
+      "question": "________is a way of thinking to solve a problem.",
+      "options": [
+        "Critical thinking",
+        "Self confidence",
+        "Negative attitude",
+        "Time Management"
+      ],
+      "answer": "Critical thinking",
+      "id": "16"
+    },
+    {
+      "question": "Choosing between two or more options is known as_________process.",
+      "options": [
+        "Manufacturing",
+        "Decision-making",
+        "Scientific",
+        "Technical"
+      ],
+      "answer": "Decision-making",
+      "id": "17"
+    },
+    {
+      "question": "Which of the following is not a part of decision-making?",
+      "options": [
+        "Identify problem",
+        "Generate options",
+        "Implement decision",
+        "Performance"
+      ],
+      "answer": "Performance",
+      "id": "18"
+    },
+    {
+      "question": "Manu thinks about a problem well before making any decision. This is an example of;",
+      "options": [
+        "Self-motivation",
+        "Critical thinking",
+        "Time Management",
+        "Logical thinking"
+      ],
+      "answer": "Critical thinking",
+      "id": "19"
+    },
+    {
+      "question": "Revathi got a job offer out of her town. She decided to refuse the offer after listing the pros and cons. She followed_______process.",
+      "options": [
+        "Decision- making",
+        "Positive attitude",
+        "Conflict resolution",
+        "Negative attitude"
+      ],
+      "answer": "Decision- making",
+      "id": "20"
+    },
+    {
+      "question": "What are the advantages of time management?",
+      "options": [
+        "Complete tasks on time",
+        "Achieve daily goals",
+        "Reduce stress",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "21"
+    },
+    {
+      "question": "Good time management helps in improving ________ at work.",
+      "options": [
+        "Weakness",
+        "Performance",
+        "Stress",
+        "Pressure"
+      ],
+      "answer": "Performance",
+      "id": "22"
+    },
+    {
+      "question": "The time blocked for work is called a _______ technique.",
+      "options": [
+        "Doro",
+        "Pomo",
+        "Pomodoro",
+        "Domo"
+      ],
+      "answer": "Pomodoro",
+      "id": "23"
+    },
+    {
+      "question": "Rahim learns MS Office during his lunch break. This is an example of -",
+      "options": [
+        "Time Management",
+        "Over thinking",
+        "Online job",
+        "Logical thinking"
+      ],
+      "answer": "Time Management",
+      "id": "24"
+    },
+    {
+      "question": "Bhanu creates 25 minutes task planner and never gets distracted during the blocked time. Which method does she follow?",
+      "options": [
+        "Pomodoro",
+        "Timing",
+        "Blocktime",
+        "Calendar"
+      ],
+      "answer": "Pomodoro",
+      "id": "25"
+    },
+    {
+      "question": "Finding a solution to any problem is known as _____skill.",
+      "options": [
+        "Over thinking",
+        "Critical thinking",
+        "Decision-making",
+        "Problem solving"
+      ],
+      "answer": "Problem solving",
+      "id": "26"
+    },
+    {
+      "question": "Which of the following is not a step in problem solving?",
+      "options": [
+        "Identify the problem",
+        "Divide problem into parts",
+        "Set timer",
+        "Find solutions"
+      ],
+      "answer": "Set timer",
+      "id": "27"
+    },
+    {
+      "question": "If one is capable of finding solutions to problems, one will get better at ______.",
+      "options": [
+        "Self-motivation",
+        "Problem-solving",
+        "Career",
+        "Painting"
+      ],
+      "answer": "Problem-solving",
+      "id": "28"
+    },
+    {
+      "question": "Soni is trying to fix the download problem on the laptop. She did not succeed on the first attempt. What should she do?",
+      "options": [
+        "Try another way",
+        "Quit the task",
+        "Never solve the problem",
+        "Quit the job"
+      ],
+      "answer": "Try another way",
+      "id": "29"
+    },
+    {
+      "question": "Steve\u2019s mother told him that the mixer grinder is not working. What should be his first step in order to solve the problem?",
+      "options": [
+        "Complain",
+        "Identify the problem",
+        "Sell the mixer",
+        "Throw it"
+      ],
+      "answer": "Identify the problem",
+      "id": "30"
+    }
+  ],
+  "Basic English Skills": [
+    {
+      "question": "English is a ______ language.",
+      "options": [
+        "Common",
+        "Day",
+        "Night",
+        "Evening"
+      ],
+      "answer": "Common",
+      "id": "1"
+    },
+    {
+      "question": "Using Internet is easy if we learn _______.",
+      "options": [
+        "Sports",
+        "English",
+        "Maths",
+        "Science"
+      ],
+      "answer": "English",
+      "id": "2"
+    },
+    {
+      "question": "We can learn English by _______.",
+      "options": [
+        "Cooking",
+        "Playing",
+        "Reading newspaper",
+        "None of these"
+      ],
+      "answer": "Reading newspaper",
+      "id": "3"
+    },
+    {
+      "question": "Tom tries to read the name boards, advertisements and posters that are in English. This helps him to_________ .",
+      "options": [
+        "Play",
+        "Friends",
+        "See",
+        "Improve his English"
+      ],
+      "answer": "Improve his English",
+      "id": "4"
+    },
+    {
+      "question": "When people from different states/ countries meet officially, _____ is the commonly used language to communicate with each other.",
+      "options": [
+        "Latin",
+        "English",
+        "Newspaper",
+        "Action"
+      ],
+      "answer": "English",
+      "id": "5"
+    },
+    {
+      "question": "Words that are used to name people, places, animals and things are ________.",
+      "options": [
+        "Person",
+        "Table",
+        "Naming words",
+        "Key"
+      ],
+      "answer": "Naming words",
+      "id": "6"
+    },
+    {
+      "question": "Naming words are also called ____.",
+      "options": [
+        "Nouns",
+        "Verbs",
+        "Action",
+        "Pronouns"
+      ],
+      "answer": "Nouns",
+      "id": "7"
+    },
+    {
+      "question": "Bats fly during the night. In this sentence the word Bat is __________",
+      "options": [
+        "A boring word",
+        "An action word",
+        "A cool word",
+        "A Naming Word"
+      ],
+      "answer": "A Naming Word",
+      "id": "8"
+    },
+    {
+      "question": "Ram was asked to measure his cupboard. It was 4 feet tall. Here feet means ___.",
+      "options": [
+        "Taste",
+        "Hand",
+        "Leg",
+        "Measurement"
+      ],
+      "answer": "Measurement",
+      "id": "9"
+    },
+    {
+      "question": "John was travelling by bus to his village. He noted the names of places that he could see on his journey. What are these words called as?",
+      "options": [
+        "Naming words",
+        "His",
+        "That",
+        "See"
+      ],
+      "answer": "Naming words",
+      "id": "10"
+    },
+    {
+      "question": "Cats is an example of _____ word.",
+      "options": [
+        "Words",
+        "Plural",
+        "Singular",
+        "Opposite"
+      ],
+      "answer": "Plural",
+      "id": "11"
+    },
+    {
+      "question": "Singular naming words are used when _____ person, place or thing is present.",
+      "options": [
+        "Many",
+        "Few",
+        "One",
+        "More"
+      ],
+      "answer": "One",
+      "id": "12"
+    },
+    {
+      "question": "Plural form of child is___.",
+      "options": [
+        "Person",
+        "Infant",
+        "Kid",
+        "Children"
+      ],
+      "answer": "Children",
+      "id": "13"
+    },
+    {
+      "question": "A child was working in the computer lab which had many computers. The word \u201ccomputers\u201d is in the____ form.",
+      "options": [
+        "Less",
+        "Plural",
+        "Minimum",
+        "Maximum"
+      ],
+      "answer": "Plural",
+      "id": "14"
+    },
+    {
+      "question": "Vinay visited the dentist because he was suffering from tooth ache. Dentist treats our teeth problems. In this sentence, which is the plural word?",
+      "options": [
+        "Teeth",
+        "Tooth",
+        "Vinay",
+        "Dentist"
+      ],
+      "answer": "Teeth",
+      "id": "15"
+    },
+    {
+      "question": "Pronouns (ex: he, she, her) can be used in the place of ________.",
+      "options": [
+        "Spellings",
+        "Adjective",
+        "Verb",
+        "Naming words"
+      ],
+      "answer": "Naming words",
+      "id": "16"
+    },
+    {
+      "question": "They\u2019 is used when we want to refer to _____.",
+      "options": [
+        "He",
+        "She",
+        "Many people",
+        "Our"
+      ],
+      "answer": "Many people",
+      "id": "17"
+    },
+    {
+      "question": "The pronoun \u201cI\u201d is used for ______.",
+      "options": [
+        "Many",
+        "Myself",
+        "Other",
+        "That"
+      ],
+      "answer": "Myself",
+      "id": "18"
+    },
+    {
+      "question": "Ramesh is working in Chennai. ____ likes the office environment.",
+      "options": [
+        "He",
+        "It",
+        "That",
+        "What"
+      ],
+      "answer": "He",
+      "id": "19"
+    },
+    {
+      "question": "Sita and I are friends. _____ stays in Gandhi Bazar.",
+      "options": [
+        "What",
+        "She",
+        "A",
+        "And"
+      ],
+      "answer": "She",
+      "id": "20"
+    },
+    {
+      "question": "Action words are also called _____.",
+      "options": [
+        "Center",
+        "Are",
+        "Verbs",
+        "Is"
+      ],
+      "answer": "Verbs",
+      "id": "21"
+    },
+    {
+      "question": "Verbs tell the action of the _____.",
+      "options": [
+        "Cow",
+        "Change",
+        "Act",
+        "Naming words"
+      ],
+      "answer": "Naming words",
+      "id": "22"
+    },
+    {
+      "question": "Kim fell from her bike yesterday. The action in the sentence is in __________ tense.",
+      "options": [
+        "Future",
+        "Past",
+        "Present",
+        "Clear"
+      ],
+      "answer": "Past",
+      "id": "23"
+    },
+    {
+      "question": "\u201cIt is going to be a sunny day tomorrow\u201d. The action in this sentence is in _________ tense.",
+      "options": [
+        "Future",
+        "Past",
+        "Date",
+        "Day"
+      ],
+      "answer": "Future",
+      "id": "24"
+    },
+    {
+      "question": "Arun travels to school by bus. The action word in the sentence is _____.",
+      "options": [
+        "bus",
+        "travels",
+        "school",
+        "Arun"
+      ],
+      "answer": "travels",
+      "id": "25"
+    },
+    {
+      "question": "Adjectives are ____ words.",
+      "options": [
+        "Sound",
+        "Finish",
+        "Describing",
+        "Neutral"
+      ],
+      "answer": "Describing",
+      "id": "26"
+    },
+    {
+      "question": "Describing words add more information to the ____.",
+      "options": [
+        "Naming words",
+        "Bad",
+        "Sad",
+        "Numbers"
+      ],
+      "answer": "Naming words",
+      "id": "27"
+    },
+    {
+      "question": "It is a _____ knife. Fill in the correct adjective.",
+      "options": [
+        "this",
+        "sharp",
+        "and",
+        "there"
+      ],
+      "answer": "sharp",
+      "id": "28"
+    },
+    {
+      "question": "\u201cThe sea is blue\u201d. In this sentence ____ is an adjective.",
+      "options": [
+        "sea",
+        "the",
+        "is",
+        "blue"
+      ],
+      "answer": "blue",
+      "id": "29"
+    },
+    {
+      "question": "\u201cArjun filled water into a large pot\u201d. In this sentence the describing word is ________.",
+      "options": [
+        "large",
+        "Arjun",
+        "water",
+        "into"
+      ],
+      "answer": "large",
+      "id": "30"
+    },
+    {
+      "question": "The punctuation in a sentence makes the meaning __________ to understand.",
+      "options": [
+        "ambiguous",
+        "unclear",
+        "think",
+        "clear"
+      ],
+      "answer": "clear",
+      "id": "31"
+    },
+    {
+      "question": "The beginning of a sentence should start with _______ letter",
+      "options": [
+        "Capital",
+        "Small",
+        "Cursive",
+        "Italics"
+      ],
+      "answer": "Capital",
+      "id": "32"
+    },
+    {
+      "question": "Comma is used to show a ____ within the sentence.",
+      "options": [
+        "Full stop",
+        "Pair",
+        "Break",
+        "Capital letter"
+      ],
+      "answer": "Break",
+      "id": "33"
+    },
+    {
+      "question": "Sita wanted to ask Nina about her summer plan. Choose the correct answer.",
+      "options": [
+        "Nina is your plan.",
+        "Nina, what is your summer plan?",
+        "What Nina asked?",
+        "None of these"
+      ],
+      "answer": "Nina, what is your summer plan?",
+      "id": "34"
+    },
+    {
+      "question": "Add comma wherever it is necessary. After the meeting we will go out.",
+      "options": [
+        "After, the meeting, we will go out.",
+        "After the meeting, we will go out.",
+        "After the, meeting we will go, out.",
+        "After the meeting we will go out."
+      ],
+      "answer": "After the meeting, we will go out.",
+      "id": "35"
+    },
+    {
+      "question": "Sentences are _________________.",
+      "options": [
+        "group of words with complete meaning",
+        "Verbs",
+        "Nouns",
+        "Letters"
+      ],
+      "answer": "group of words with complete meaning",
+      "id": "36"
+    },
+    {
+      "question": "A declarative sentence tells us some information or explanation. It ends with _________.",
+      "options": [
+        "Comma (,)",
+        "Question mark (?)",
+        "Full stop (.)",
+        "Exclamatory mark (!)"
+      ],
+      "answer": "Full stop (.)",
+      "id": "37"
+    },
+    {
+      "question": "An exclamatory sentence ends with the _____.",
+      "options": [
+        "Full stop (.)",
+        "Comma (,)",
+        "Question mark (?)",
+        "Exclamatory mark (!)"
+      ],
+      "answer": "Exclamatory mark (!)",
+      "id": "38"
+    },
+    {
+      "question": "Wow! The flowers in the park are beautiful. This is a _________ sentence.",
+      "options": [
+        "Declarative (.)",
+        "Exclamatory (!)",
+        "Imperative",
+        "Interrogative (?)"
+      ],
+      "answer": "Exclamatory (!)",
+      "id": "39"
+    },
+    {
+      "question": "The police were questioning about his crime. What type of sentence is it?",
+      "options": [
+        "Declarative (.)",
+        "Interrogative (?)",
+        "Exclamatory (!)",
+        "None of these"
+      ],
+      "answer": "Declarative (.)",
+      "id": "40"
+    },
+    {
+      "question": "Every complete sentence has ___.",
+      "options": [
+        "1 part",
+        "2 parts",
+        "3 parts",
+        "4 parts"
+      ],
+      "answer": "3 parts",
+      "id": "41"
+    },
+    {
+      "question": "The ________ is what or whom a sentence is about.",
+      "options": [
+        "Subject",
+        "Predicate",
+        "Object",
+        "Verb"
+      ],
+      "answer": "Subject",
+      "id": "42"
+    },
+    {
+      "question": "The correct order for a sentence is ________.",
+      "options": [
+        "Subject, Verb, Object",
+        "Subject, Verb",
+        "Verb, Object, Subject",
+        "Verb, Verb, Subject"
+      ],
+      "answer": "Subject, Verb, Object",
+      "id": "43"
+    },
+    {
+      "question": "Radha has learnt how to write a sentence. Which is the subject in this sentence?",
+      "options": [
+        "Learnt",
+        "How",
+        "Sentence",
+        "Radha"
+      ],
+      "answer": "Radha",
+      "id": "44"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The road runs on cat.",
+        "The cat runs on the road.",
+        "Cat road runs.",
+        "Runs on the road cat."
+      ],
+      "answer": "The cat runs on the road.",
+      "id": "45"
+    },
+    {
+      "question": "The most effective way to get information is by",
+      "options": [
+        "Writing",
+        "Talking",
+        "Reading",
+        "Activity"
+      ],
+      "answer": "Reading",
+      "id": "46"
+    },
+    {
+      "question": "A poster presents information by using ______________.",
+      "options": [
+        "Novel",
+        "Story",
+        "Images and colours",
+        "Exercise for practice"
+      ],
+      "answer": "Images and colours",
+      "id": "47"
+    },
+    {
+      "question": "Symbols gives us information through ____.",
+      "options": [
+        "Colours",
+        "Images",
+        "Words",
+        "Posters"
+      ],
+      "answer": "Images",
+      "id": "48"
+    },
+    {
+      "question": "Yash bought a bag which had recycle symbol. What should he do when the bag is old?",
+      "options": [
+        "Burn",
+        "Throw it in the river",
+        "Put it in soil",
+        "Should dispose it in recyclable items"
+      ],
+      "answer": "Should dispose it in recyclable items",
+      "id": "49"
+    },
+    {
+      "question": "Raj was driving towards Mysore. On the way he found few arrows marked next to Mysore on the board. What does it suggest ?",
+      "options": [
+        "Direction",
+        "Map",
+        "Way",
+        "None of these"
+      ],
+      "answer": "Direction",
+      "id": "50"
+    },
+    {
+      "question": "People can hear the emotions and see our facial expression when we _____.",
+      "options": [
+        "Speak",
+        "Listen",
+        "Taste",
+        "See"
+      ],
+      "answer": "Speak",
+      "id": "51"
+    },
+    {
+      "question": "____ contact with the people we are speaking help us to communicate confidently.",
+      "options": [
+        "Nose",
+        "Eye",
+        "Ear",
+        "Skin"
+      ],
+      "answer": "Eye",
+      "id": "52"
+    },
+    {
+      "question": "Emotions can be expressed through your ___.",
+      "options": [
+        "Height",
+        "Weight",
+        "Voice",
+        "Situation"
+      ],
+      "answer": "Voice",
+      "id": "53"
+    },
+    {
+      "question": "Sudha says, \u201cI feel that these lights are too bright\". What is she communicating?",
+      "options": [
+        "Question",
+        "Answer",
+        "Idiom",
+        "Opinion Phrase"
+      ],
+      "answer": "Opinion Phrase",
+      "id": "54"
+    },
+    {
+      "question": "John does not agree with his coworker about a task. How should he communicate his disagreement?",
+      "options": [
+        "You don't know anything.",
+        "I respectfully disagree with what you are saying.",
+        "You are wrong!",
+        "I will just do it my way."
+      ],
+      "answer": "I respectfully disagree with what you are saying.",
+      "id": "55"
+    },
+    {
+      "question": "Effective communication is to both ______.",
+      "options": [
+        "speak and listen well",
+        "speak well",
+        "see well",
+        "learn well"
+      ],
+      "answer": "speak and listen well",
+      "id": "56"
+    },
+    {
+      "question": "We should _____ instructions in the classroom.",
+      "options": [
+        "learn",
+        "listen to",
+        "forget",
+        "ignore"
+      ],
+      "answer": "listen to",
+      "id": "57"
+    },
+    {
+      "question": "Listening is important to _____ the information given.",
+      "options": [
+        "forget",
+        "overcome",
+        "understand",
+        "disobey"
+      ],
+      "answer": "understand",
+      "id": "58"
+    },
+    {
+      "question": "Rahul spends 30 minutes everyday watching news. He writes down few sentences about what is said. What is he trying to do?",
+      "options": [
+        "Practicing listening",
+        "Practicing News",
+        "Practicing Movements",
+        "None of these"
+      ],
+      "answer": "Practicing listening",
+      "id": "59"
+    },
+    {
+      "question": "Teacher Meena advised her students to write down 2 or 3 sentences when she explains the lesson. How does it help the students?",
+      "options": [
+        "Speak",
+        "Recollect what she said",
+        "Write",
+        "Read"
+      ],
+      "answer": "Recollect what she said",
+      "id": "60"
+    },
+    {
+      "question": "Things or activities that we enjoy are ____.",
+      "options": [
+        "Dislikes",
+        "Negative",
+        "Emotions",
+        "Likes"
+      ],
+      "answer": "Likes",
+      "id": "61"
+    },
+    {
+      "question": "Dislikes are things towards which we have ____.",
+      "options": [
+        "Negative emotion",
+        "Positive emotion",
+        "Likes",
+        "Interests"
+      ],
+      "answer": "Negative emotion",
+      "id": "62"
+    },
+    {
+      "question": "'I adore\u2019 phrase is used to express ____ of something.",
+      "options": [
+        "A dislike",
+        "A bad feeling",
+        "A strong admiration",
+        "A poor admiration"
+      ],
+      "answer": "A strong admiration",
+      "id": "63"
+    },
+    {
+      "question": "Naveen is fond of dogs, but Sheetal hates dogs. In this sentence who likes dogs?",
+      "options": [
+        "Sheetal",
+        "Naveen",
+        "Both Sheetal and Naveen",
+        "Dog"
+      ],
+      "answer": "Naveen",
+      "id": "64"
+    },
+    {
+      "question": "Smith! Would you like playing cricket or football this evening? If Smith likes to play both how will he answer? _____ playing any of them.",
+      "options": [
+        "I don\u2019t mind",
+        "I hate",
+        "I want",
+        "I won\u2019t"
+      ],
+      "answer": "I don\u2019t mind",
+      "id": "65"
+    },
+    {
+      "question": "Formal greetings are used in _____.",
+      "options": [
+        "Family",
+        "Workplace",
+        "House",
+        "Friends"
+      ],
+      "answer": "Workplace",
+      "id": "66"
+    },
+    {
+      "question": "___ greetings are used while speaking to friends and family.",
+      "options": [
+        "Formal",
+        "Due",
+        "Informal",
+        "No"
+      ],
+      "answer": "Informal",
+      "id": "67"
+    },
+    {
+      "question": "Which of these is an informal greeting?",
+      "options": [
+        "Good day",
+        "Good morning",
+        "Good evening",
+        "Hey"
+      ],
+      "answer": "Hey",
+      "id": "68"
+    },
+    {
+      "question": "Malini is attending her new school today. She introduces herself as _____.",
+      "options": [
+        "Good bye",
+        "Hello everyone!",
+        "What\u2019s up guys",
+        "Longtime everyone"
+      ],
+      "answer": "Hello everyone!",
+      "id": "69"
+    },
+    {
+      "question": "Sanju met her cousin Keerti accidentally in a mall. How should she greet her?",
+      "options": [
+        "Long time, no see!",
+        "What are you doing here?",
+        "Thank you!",
+        "Take care!"
+      ],
+      "answer": "Long time, no see!",
+      "id": "70"
+    },
+    {
+      "question": "When you ask someone something it is ___.",
+      "options": [
+        "Answer",
+        "Blank",
+        "Question",
+        "Response"
+      ],
+      "answer": "Question",
+      "id": "71"
+    },
+    {
+      "question": "Question always end with a ____.",
+      "options": [
+        "Comma ,",
+        "Question mark ?",
+        "Exclamation mark !",
+        "Full stop ."
+      ],
+      "answer": "Question mark ?",
+      "id": "72"
+    },
+    {
+      "question": "___questions give clear indication of the information the person wants to know.",
+      "options": [
+        "Wh-",
+        "Yes or No",
+        "No",
+        "Closed questions"
+      ],
+      "answer": "Wh-",
+      "id": "73"
+    },
+    {
+      "question": "Vinutha was questioned whether she has completed her degree in an interview. How should she respond stating that she has completed?",
+      "options": [
+        "Yes",
+        "No",
+        "Yes, I have completed my degree",
+        "Completed my degree"
+      ],
+      "answer": "Yes, I have completed my degree",
+      "id": "74"
+    },
+    {
+      "question": "Tutor asked his student whether he knew to use Windows? How should the student answer?",
+      "options": [
+        "Done",
+        "Yes, I know how to use Windows",
+        "Yup",
+        "I will know"
+      ],
+      "answer": "Yes, I know how to use Windows",
+      "id": "75"
+    },
+    {
+      "question": "When two or more people give their thoughts and views on a topic. It is called a______.",
+      "options": [
+        "Speaking",
+        "Listening",
+        "Reading",
+        "Group discussion"
+      ],
+      "answer": "Group discussion",
+      "id": "76"
+    },
+    {
+      "question": "Group discussion helps us ____.",
+      "options": [
+        "argue",
+        "have fun",
+        "create problems",
+        "learn more and solve big problems"
+      ],
+      "answer": "learn more and solve big problems",
+      "id": "77"
+    },
+    {
+      "question": "Which of these should not be used to express your opinion in a group discussion?",
+      "options": [
+        "It seems to me that",
+        "Listen to me",
+        "In my opinion",
+        "I don\u2019t quite agree"
+      ],
+      "answer": "Listen to me",
+      "id": "78"
+    },
+    {
+      "question": "Mahesh and his team discussed about the steps to be followed to complete the project at the earliest. He was happy with the suggestions given by his teammates and granted to follow the same. How would he convey it?",
+      "options": [
+        "I agree with your plan of action",
+        "You must follow what I tell you",
+        "Don\u2019t come here to talk",
+        "I don\u2019t agree with your plan"
+      ],
+      "answer": "I agree with your plan of action",
+      "id": "79"
+    },
+    {
+      "question": "Rita had to attend a group discussion on behalf of her company. What is she supposed to do before the meeting?",
+      "options": [
+        "Attend party",
+        "Attend classes",
+        "Be prepared about the topic",
+        "Take leave"
+      ],
+      "answer": "Be prepared about the topic",
+      "id": "80"
+    },
+    {
+      "question": "A person who makes a call ________",
+      "options": [
+        "Keypad",
+        "Caller",
+        "Phase",
+        "Contacts"
+      ],
+      "answer": "Caller",
+      "id": "81"
+    },
+    {
+      "question": "Receiver is a person who ____ the call.",
+      "options": [
+        "Blocks",
+        "Dials",
+        "Receives",
+        "Rejects"
+      ],
+      "answer": "Receives",
+      "id": "82"
+    },
+    {
+      "question": "Phone call has ___ phases",
+      "options": [
+        "End",
+        "Middle",
+        "Different",
+        "Three"
+      ],
+      "answer": "Three",
+      "id": "83"
+    },
+    {
+      "question": "Bindu receives a call from JJ company promoting a discount sale. She couldn\u2019t clearly hear the details. How is she supposed to ask the person to repeat the information?",
+      "options": [
+        "What is it?",
+        "Could you please repeat?",
+        "Speak loud",
+        "I don\u2019t know"
+      ],
+      "answer": "Could you please repeat?",
+      "id": "84"
+    },
+    {
+      "question": "Harish made a call to the Senior manager in a company. How is he supposed to start the conversation.?",
+      "options": [
+        "Greet the person",
+        "Purpose of call",
+        "Thank the person",
+        "Good bye"
+      ],
+      "answer": "Greet the person",
+      "id": "85"
+    },
+    {
+      "question": "Document which has details of a job is ____.",
+      "options": [
+        "Letter",
+        "Resume",
+        "Job Description",
+        "Report"
+      ],
+      "answer": "Job Description",
+      "id": "86"
+    },
+    {
+      "question": "Job title is the name of ___.",
+      "options": [
+        "Company name",
+        "Role you join",
+        "Company Job",
+        "Summary"
+      ],
+      "answer": "Role you join",
+      "id": "87"
+    },
+    {
+      "question": "Location for the job means ____.",
+      "options": [
+        "Title",
+        "Description",
+        "Name",
+        "Place"
+      ],
+      "answer": "Place",
+      "id": "88"
+    },
+    {
+      "question": "Ravi read job description which specified \u201cFamiliarity with MS office\u201d. What should he know?",
+      "options": [
+        "How to write an email",
+        "How to get certification",
+        "How to use MS Office",
+        "How to study"
+      ],
+      "answer": "How to use MS Office",
+      "id": "89"
+    },
+    {
+      "question": "Shyam and Ram applied for the same job. Shyam read the job description in detail and made note of important details. Who will know more about the company?",
+      "options": [
+        "Ram",
+        "Shyam",
+        "Both of them",
+        "None of them"
+      ],
+      "answer": "Shyam",
+      "id": "90"
+    },
+    {
+      "question": "If you work in a large & popular company, what type of information is good to share about the workplace?",
+      "options": [
+        "Type of job & Company name",
+        "Name of the workplace alone",
+        "Location",
+        "None of these"
+      ],
+      "answer": "Type of job & Company name",
+      "id": "91"
+    },
+    {
+      "question": "Which of these is not a positive word about your work?",
+      "options": [
+        "Fun",
+        "Exciting",
+        "Boring",
+        "Interesting"
+      ],
+      "answer": "Boring",
+      "id": "92"
+    },
+    {
+      "question": "A person who works with us is called a____.",
+      "options": [
+        "Friend",
+        "Coworker",
+        "Family",
+        "Relative"
+      ],
+      "answer": "Coworker",
+      "id": "93"
+    },
+    {
+      "question": "Ram is answering an interview question about his previous workplace. He didn't like his teammates. They argued a lot. Should he share this with the interviewer?",
+      "options": [
+        "Yes, he should blame his team- mates for all the problems.",
+        "No, he should avoid speaking negatively about his teammates.",
+        "Yes, he should discuss all the arguments in detail.",
+        "Yes, why not!"
+      ],
+      "answer": "No, he should avoid speaking negatively about his teammates.",
+      "id": "94"
+    },
+    {
+      "question": "Ryan wants to speak to HR about his work. He should specify the name of his job, place of work and ____.",
+      "options": [
+        "Team mates",
+        "Senior name",
+        "His needs",
+        "Some information about his responsibilities"
+      ],
+      "answer": "Some information about his responsibilities",
+      "id": "95"
+    },
+    {
+      "question": "Most of the government job calls will be in ___ format.",
+      "options": [
+        "Paper format",
+        "Direct",
+        "Indirect",
+        "In person"
+      ],
+      "answer": "Paper format",
+      "id": "96"
+    },
+    {
+      "question": "An introduction letter is a ___.",
+      "options": [
+        "E-mail",
+        "Cover letter",
+        "Leave Letter",
+        "Resume"
+      ],
+      "answer": "Cover letter",
+      "id": "97"
+    },
+    {
+      "question": "When you are interested in working for a company, you will write _______ letter",
+      "options": [
+        "an Application",
+        "a Referal",
+        "a Leave",
+        "a Prospecting"
+      ],
+      "answer": "a Prospecting",
+      "id": "98"
+    },
+    {
+      "question": "Latha\u2019s uncle works at the company where she has applied for a job. He offered to refer her for the position. What type of cover letter should Latha write to increase her chances of being considered for the job?",
+      "options": [
+        "Referral Cover Letter",
+        "Letter of interest",
+        "Leave letter",
+        "Letter of absence"
+      ],
+      "answer": "Referral Cover Letter",
+      "id": "99"
+    },
+    {
+      "question": "Shilpa is applying for a job online. She sends her application by email. What is she supposed to mention in the subject line to make it easy for the employer to find her email?",
+      "options": [
+        "Shilpa - Age",
+        "Shilpa - Job Position",
+        "Education qualification",
+        "Pervious experience"
+      ],
+      "answer": "Shilpa - Job Position",
+      "id": "100"
+    }
+  ],
+  "Communication Skills": [
+    {
+      "question": "We can share our thoughts, ideas and feelings through ____.",
+      "options": [
+        "Communication",
+        "Reading",
+        "Watching",
+        "Hearing"
+      ],
+      "answer": "Communication",
+      "id": "1"
+    },
+    {
+      "question": "Effective communication needs to be -",
+      "options": [
+        "Simple",
+        "Clear",
+        "Complete",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "2"
+    },
+    {
+      "question": "Which among these is a type of communication?",
+      "options": [
+        "Verbal",
+        "Non-Verbal",
+        "Visual",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "3"
+    },
+    {
+      "question": "Nitya wanted to discuss an issue with her teammates. What type of communication is it?",
+      "options": [
+        "Written",
+        "Verbal",
+        "Image",
+        "Video"
+      ],
+      "answer": "Verbal",
+      "id": "4"
+    },
+    {
+      "question": "The way we sit, our facial expression and body language show __________ communication.",
+      "options": [
+        "non- verbal",
+        "verbal",
+        "informal",
+        "written"
+      ],
+      "answer": "non- verbal",
+      "id": "5"
+    },
+    {
+      "question": "Verbal communication is the use of _____.",
+      "options": [
+        "Sign",
+        "Words",
+        "Maths",
+        "Images"
+      ],
+      "answer": "Words",
+      "id": "6"
+    },
+    {
+      "question": "Forms of verbal communication are ___.",
+      "options": [
+        "Making eye contact",
+        "Thinking",
+        "Writing and Speaking",
+        "Dancing"
+      ],
+      "answer": "Writing and Speaking",
+      "id": "7"
+    },
+    {
+      "question": "Clear communication leads to _____.",
+      "options": [
+        "Different work",
+        "Opposite work",
+        "Slow work",
+        "Faster work"
+      ],
+      "answer": "Faster work",
+      "id": "8"
+    },
+    {
+      "question": "Seetha is speaking to her customers to understand how to improve her business. What type of communication is this?",
+      "options": [
+        "Verbal Communication",
+        "Non-Verbal Communication",
+        "No Communication",
+        "Written communication"
+      ],
+      "answer": "Verbal Communication",
+      "id": "9"
+    },
+    {
+      "question": "Raj and Tej talk to each other only on the phone. What type of communication is this?",
+      "options": [
+        "Sign communication",
+        "Non-Verbal Communication",
+        "Verbal Communication",
+        "Written communication"
+      ],
+      "answer": "Verbal Communication",
+      "id": "10"
+    },
+    {
+      "question": "Letter is a form of _________ communication.",
+      "options": [
+        "Non-verbal",
+        "Spoken",
+        "Written",
+        "Telephone"
+      ],
+      "answer": "Written",
+      "id": "11"
+    },
+    {
+      "question": "A formal letter can be used for __________ purposes.",
+      "options": [
+        "Boring",
+        "Official",
+        "Friendship",
+        "Fighting"
+      ],
+      "answer": "Official",
+      "id": "12"
+    },
+    {
+      "question": "\u201cReg\u201d in the letter means ___.",
+      "options": [
+        "Regarding",
+        "Subject",
+        "Greetings",
+        "Body"
+      ],
+      "answer": "Regarding",
+      "id": "13"
+    },
+    {
+      "question": "Tom received a letter, but it did not have any details of who sent it. The letter was missing the ____________ address.",
+      "options": [
+        "Receiver\u2019s",
+        "Sender\u2019s",
+        "Greetings",
+        "Subject"
+      ],
+      "answer": "Sender\u2019s",
+      "id": "14"
+    },
+    {
+      "question": "Sam wanted to apply for a job. He thought of writing a cover letter to the company. But his friend suggested to attach _______ with the cover letter.",
+      "options": [
+        "Brochure",
+        "Leave",
+        "Formal",
+        "Resume"
+      ],
+      "answer": "Resume",
+      "id": "15"
+    },
+    {
+      "question": "Which is not a type of non-verbal communication ?",
+      "options": [
+        "E-mail",
+        "Eye-contact",
+        "Hand movements",
+        "Facial expression"
+      ],
+      "answer": "E-mail",
+      "id": "16"
+    },
+    {
+      "question": "Shouting shows we are angry. Talking very slowly shows we are tired or sleepy. What part of non-verbal communication helps us understand this?",
+      "options": [
+        "Smile",
+        "Hand movements",
+        "Tone of voice",
+        "Eye movements"
+      ],
+      "answer": "Tone of voice",
+      "id": "17"
+    },
+    {
+      "question": "Distance between yourself and the other person is called ________.",
+      "options": [
+        "Spatial distance",
+        "Relationship",
+        "Informal",
+        "Close"
+      ],
+      "answer": "Spatial distance",
+      "id": "18"
+    },
+    {
+      "question": "When talking to our co-workers, we should not stand or sit _________ to them.",
+      "options": [
+        "too close",
+        "opposite",
+        "In front of",
+        "next to"
+      ],
+      "answer": "too close",
+      "id": "19"
+    },
+    {
+      "question": "Cherry is going for an interview. What should she not do?",
+      "options": [
+        "Wear formal dress",
+        "Apply too much makeup or perfume",
+        "Take her resume",
+        "Wear clean clothes"
+      ],
+      "answer": "Apply too much makeup or perfume",
+      "id": "20"
+    },
+    {
+      "question": "You can speak to your friend________.",
+      "options": [
+        "Formally",
+        "Informally",
+        "By reading their mind",
+        "By dancing"
+      ],
+      "answer": "Informally",
+      "id": "21"
+    },
+    {
+      "question": "Which is not a type of communication?",
+      "options": [
+        "Verbal",
+        "Non-verbal",
+        "Written",
+        "Driving"
+      ],
+      "answer": "Driving",
+      "id": "22"
+    },
+    {
+      "question": "Formal communication is used at ____.",
+      "options": [
+        "Friend",
+        "House",
+        "Party",
+        "Workplace"
+      ],
+      "answer": "Workplace",
+      "id": "23"
+    },
+    {
+      "question": "Vinod met his new manager at his workplace. He had to ______ himself first.",
+      "options": [
+        "Thank",
+        "Introduce",
+        "Appreciate",
+        "Praise"
+      ],
+      "answer": "Introduce",
+      "id": "24"
+    },
+    {
+      "question": "Whenever we are communicating we have to be dressed appropriately, maintain our body language and maintain ____.",
+      "options": [
+        "a very loud volume",
+        "make up",
+        "eye contact",
+        "silence"
+      ],
+      "answer": "eye contact",
+      "id": "25"
+    },
+    {
+      "question": "Exchange of ideas happen through ______.",
+      "options": [
+        "Communication",
+        "Listening",
+        "Watching",
+        "Singing"
+      ],
+      "answer": "Communication",
+      "id": "26"
+    },
+    {
+      "question": "At workplace, communication must follow the ______.",
+      "options": [
+        "Ideas",
+        "Text",
+        "6Cs",
+        "Close"
+      ],
+      "answer": "6Cs",
+      "id": "27"
+    },
+    {
+      "question": "Organizations communicate mainly through _____.",
+      "options": [
+        "Letters",
+        "E-mails",
+        "Project",
+        "Unfamiliar words"
+      ],
+      "answer": "E-mails",
+      "id": "28"
+    },
+    {
+      "question": "In a meeting, Surya speaks in Hindi. Some of his team members understand both English & Hindi, while others only know English. What should Surya do?",
+      "options": [
+        "Speak in Hindi",
+        "Scold people",
+        "Stop talking",
+        "Speak in English"
+      ],
+      "answer": "Speak in English",
+      "id": "29"
+    },
+    {
+      "question": "Which communication method should be used to share confidential information and documents in the workplace?",
+      "options": [
+        "WhatsApp",
+        "Email",
+        "Instagram",
+        "Phone"
+      ],
+      "answer": "Email",
+      "id": "30"
+    },
+    {
+      "question": "What can make it difficult to communicate in the workplace?",
+      "options": [
+        "Language differences",
+        "Use of unfamiliar words",
+        "Differences in communication styles",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "31"
+    },
+    {
+      "question": "The concept of ____ best describes importance of teamwork.",
+      "options": [
+        "Conflict",
+        "Synergy",
+        "Team",
+        "Group"
+      ],
+      "answer": "Synergy",
+      "id": "32"
+    },
+    {
+      "question": "Sharing will help everyone feel involved and _____.",
+      "options": [
+        "Happy",
+        "Sad",
+        "Motivated",
+        "Close"
+      ],
+      "answer": "Motivated",
+      "id": "33"
+    },
+    {
+      "question": "Ram, Vinay and Sandeep are working as a team to finish the geography project. Vinay is sharing his thoughts. What are Vinay and Sandeep supposed to do?",
+      "options": [
+        "Listen actively",
+        "Play",
+        "Go around the school",
+        "None of these"
+      ],
+      "answer": "Listen actively",
+      "id": "34"
+    },
+    {
+      "question": "Tina and Lyra\u2019s team are working together to finish the school painting project. What should both the teams do to finish the project?",
+      "options": [
+        "Resist",
+        "Share resposibility",
+        "Fight",
+        "Argue"
+      ],
+      "answer": "Share resposibility",
+      "id": "35"
+    },
+    {
+      "question": "Argument or disagreement between two groups of people is called _________.",
+      "options": [
+        "Teamwork",
+        "Conflict",
+        "Happiness",
+        "Fun"
+      ],
+      "answer": "Conflict",
+      "id": "36"
+    },
+    {
+      "question": "Conflict usually creates _______.",
+      "options": [
+        "Negative emotions",
+        "Positive emotions",
+        "Happy emotions",
+        "Enjoyment"
+      ],
+      "answer": "Negative emotions",
+      "id": "37"
+    },
+    {
+      "question": "Conflict in workplace affects ____.",
+      "options": [
+        "ability to work",
+        "salary",
+        "environment",
+        "weather"
+      ],
+      "answer": "ability to work",
+      "id": "38"
+    },
+    {
+      "question": "James had to meet his team members Suraj, Reena and Nagma on Friday. James called Suraj and Reena. But he did not inform Nagma. This is an example of _________.",
+      "options": [
+        "Poor communication",
+        "Typing error",
+        "Stress",
+        "Poor listening"
+      ],
+      "answer": "Poor communication",
+      "id": "39"
+    },
+    {
+      "question": "Shwetha and Rakshit are coworkers. They are angry with each other because they have not completed a project properly. Which is a good way to resolve such conflicts in the workplace?",
+      "options": [
+        "Quit the job",
+        "Find different ways to solve the problem",
+        "Ignore each other",
+        "File a police complaint"
+      ],
+      "answer": "Find different ways to solve the problem",
+      "id": "40"
+    },
+    {
+      "question": "Negative comments made about our action or performance is called _____.",
+      "options": [
+        "Appreciation",
+        "Congratulations",
+        "Criticism",
+        "Reward"
+      ],
+      "answer": "Criticism",
+      "id": "41"
+    },
+    {
+      "question": "If a person recieves harsh, unfair and very negative criticism, they feel very unhappy. What type of criticism is this?",
+      "options": [
+        "Helpful criticism",
+        "Fair criticism",
+        "Unfair criticism",
+        "Positive criticism"
+      ],
+      "answer": "Unfair criticism",
+      "id": "42"
+    },
+    {
+      "question": "During criticism we must remain ______ and _____ to the person.",
+      "options": [
+        "happy and joyful",
+        "calm and listen",
+        "shout and cry",
+        "fight and cry"
+      ],
+      "answer": "calm and listen",
+      "id": "43"
+    },
+    {
+      "question": "Priya received constructive (helpful) criticism from her manager about her latest project. What should she do?",
+      "options": [
+        "Listen",
+        "Understand",
+        "Thank her manager",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "44"
+    },
+    {
+      "question": "Kishore\u2019s manager gave him positive and negative feedback. Kishore is feeling confused. What should he do next?",
+      "options": [
+        "Calm down and think",
+        "Try to understand the positive points given by his manager",
+        "Try to understand the negative points given by the manager",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "45"
+    },
+    {
+      "question": "We start communicating when we are ____________.",
+      "options": [
+        "Adults",
+        "Parents",
+        "Children",
+        "Old"
+      ],
+      "answer": "Children",
+      "id": "46"
+    },
+    {
+      "question": "Rita talks to her customers. But she is unable to understand what they say. What should she do?",
+      "options": [
+        "Improve her listening skills",
+        "Stop talking to them",
+        "Fight with customers",
+        "Stop her business"
+      ],
+      "answer": "Improve her listening skills",
+      "id": "47"
+    },
+    {
+      "question": "You are unable to share your message properly in an email. Which skill should you improve?",
+      "options": [
+        "Written communication",
+        "Speaking",
+        "Reading",
+        "Playing"
+      ],
+      "answer": "Written communication",
+      "id": "48"
+    },
+    {
+      "question": "You are scared to communicate with others. What are some ways to solve this problem?",
+      "options": [
+        "Find your strengths about communication",
+        "Find your weakness about communication",
+        "Find ways to improve & learn more about your weakness",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "49"
+    },
+    {
+      "question": "How should you respond to constructive feedback from someone?",
+      "options": [
+        "Listen and understand",
+        "Argue with the person",
+        "Feel nervous",
+        "Ignore the feedback"
+      ],
+      "answer": "Listen and understand",
+      "id": "50"
+    }
+  ],
+  "Essential Digital Skills": [
+    {
+      "question": "If one can use a computer and the internet comfortably. It is called _____________.",
+      "options": [
+        "Sports Literacy",
+        "Digital Literacy",
+        "Cultural Literacy",
+        "Language Literacy"
+      ],
+      "answer": "Digital Literacy",
+      "id": "1"
+    },
+    {
+      "question": "In which of the following tasks, do we need digital literacy?",
+      "options": [
+        "Finding information online",
+        "Creating a Resume",
+        "Communicatio n through emails",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "2"
+    },
+    {
+      "question": "Which of the following can be done without the help of internet?",
+      "options": [
+        "Painting a wall",
+        "Searching for jobs online",
+        "Watching videos online",
+        "Creating a Digital Resume"
+      ],
+      "answer": "Painting a wall",
+      "id": "3"
+    },
+    {
+      "question": "Krishna is a teacher, he wants to conduct classes online. Which of these devices can he use?",
+      "options": [
+        "Computer",
+        "Laptop",
+        "Tablet",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "4"
+    },
+    {
+      "question": "Saleem needs to talk about digital skills that are required at work. Which of these works needs digital skills?",
+      "options": [
+        "Communicatin g through emails and chat",
+        "Creating and editing documents and worksheets",
+        "Creating and editing worksheets",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "5"
+    },
+    {
+      "question": "Which of the following is not a part of a desktop Computer?",
+      "options": [
+        "Monitor",
+        "Antenna",
+        "Web Camera",
+        "Mouse"
+      ],
+      "answer": "Antenna",
+      "id": "6"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": [
+        "Cost per unit",
+        "Central power unit",
+        "Central Processing Unit",
+        "Cutting power unit"
+      ],
+      "answer": "Central Processing Unit",
+      "id": "7"
+    },
+    {
+      "question": "______________is called as the brain of the computer.",
+      "options": [
+        "Web Camera",
+        "Trackpad",
+        "Monitor",
+        "Central Processing Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "id": "8"
+    },
+    {
+      "question": "Safeena wants to talk to her friend on a video call. Which of the following is necessary for a video call on a desktop computer?",
+      "options": [
+        "Trackpad",
+        "Remote",
+        "Printer",
+        "Web Camera"
+      ],
+      "answer": "Web Camera",
+      "id": "9"
+    },
+    {
+      "question": "Rashmi recently bought a new laptop after her old computer stopped working. Which part of the laptop works like a mouse?",
+      "options": [
+        "Trackpad",
+        "Speakers",
+        "Keyboard",
+        "Desktop"
+      ],
+      "answer": "Trackpad",
+      "id": "10"
+    },
+    {
+      "question": "Where is the power button located on a desktop computer?",
+      "options": [
+        "On the Keyboard",
+        "On the CPU",
+        "On the Speaker",
+        "On the Mouse"
+      ],
+      "answer": "On the CPU",
+      "id": "11"
+    },
+    {
+      "question": "_____________ is the most commonly used word for switching off a computer.",
+      "options": [
+        "Hang Up",
+        "Switch On",
+        "Shut Down",
+        "Power On"
+      ],
+      "answer": "Shut Down",
+      "id": "12"
+    },
+    {
+      "question": "Which of the following devices can be connected using bluetooth?",
+      "options": [
+        "Mouse",
+        "Earphones",
+        "Speakers",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "13"
+    },
+    {
+      "question": "Sonu wants to connect a device wirelessly to a computer. What technology can he use?",
+      "options": [
+        "Bluetooth",
+        "Wire",
+        "Switch",
+        "USB"
+      ],
+      "answer": "Bluetooth",
+      "id": "14"
+    },
+    {
+      "question": "Rajesh does not know how to connect to earphones using Bluetooth. What should he do?",
+      "options": [
+        "Use Google search",
+        "Throw away the earphones",
+        "Purchase new earphones",
+        "Sell the earphones"
+      ],
+      "answer": "Use Google search",
+      "id": "15"
+    },
+    {
+      "question": "______________ is the software that is put in a computer so that one can use it.",
+      "options": [
+        "Operating System",
+        "Software",
+        "App Store",
+        "Settings"
+      ],
+      "answer": "Operating System",
+      "id": "16"
+    },
+    {
+      "question": "Which of the following is the most common operating system?",
+      "options": [
+        "Printer",
+        "MS Office",
+        "Router",
+        "Windows"
+      ],
+      "answer": "Windows",
+      "id": "17"
+    },
+    {
+      "question": "Full form for OS is________.",
+      "options": [
+        "Operating System",
+        "Opening Screen",
+        "Opening Software",
+        "Original System"
+      ],
+      "answer": "Operating System",
+      "id": "18"
+    },
+    {
+      "question": "Riya does not know which version of windows is installed on her laptop. How can she identify the version?",
+      "options": [
+        "By uninstalling the windows",
+        "By looking at the opening screen",
+        "By shutting down the computer",
+        "By reinstalling the windows"
+      ],
+      "answer": "By looking at the opening screen",
+      "id": "19"
+    },
+    {
+      "question": "Nayan wants to search for a file quickly on his computer. What should he do?",
+      "options": [
+        "Click on \u2018Type here to search\u2019",
+        "Search on Play Store",
+        "Restart the computer",
+        "Use Bluetooth"
+      ],
+      "answer": "Click on \u2018Type here to search\u2019",
+      "id": "20"
+    },
+    {
+      "question": "On a computer, a file can be created using which of these applications?",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "MS Powerpoint",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "21"
+    },
+    {
+      "question": "What is the shortcut key to save a file?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+P"
+      ],
+      "answer": "Ctrl+S",
+      "id": "22"
+    },
+    {
+      "question": "What is the shortcut key to copy a file?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": "Ctrl+C",
+      "id": "23"
+    },
+    {
+      "question": "Nimal wants to transfer files from one location to another on her laptop. Which of the following actions can she take to do so?",
+      "options": [
+        "Click on power off button",
+        "Select the file, press Ctrl X to cut and Ctrl V to paste it",
+        "Click on escape button",
+        "Click on backspace button"
+      ],
+      "answer": "Select the file, press Ctrl X to cut and Ctrl V to paste it",
+      "id": "24"
+    },
+    {
+      "question": "Krupa wants to safeguard the information on her system. Which of the following is the correct way to store information safely on a computer?",
+      "options": [
+        "Set a strong password for your computer.",
+        "Always close/ lock your computer when you are not using it",
+        "Save the files with a clear name.",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "25"
+    },
+    {
+      "question": "Which of these is the short cut for making the text bold?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+B",
+        "Ctrl+U",
+        "Ctrl+I"
+      ],
+      "answer": "Ctrl+B",
+      "id": "26"
+    },
+    {
+      "question": "______is at the top of the MS Word screen.",
+      "options": [
+        "Menu Bar",
+        "Taskbar",
+        "Space Bar",
+        "Scroll bar"
+      ],
+      "answer": "Menu Bar",
+      "id": "27"
+    },
+    {
+      "question": "The ___________ tab helps to change the type of page. (portrait or landscape)",
+      "options": [
+        "Layout",
+        "Insert",
+        "Design",
+        "Review"
+      ],
+      "answer": "Layout",
+      "id": "28"
+    },
+    {
+      "question": "Joseph wants to make the letters in the words slant to one side. Which option should he use?",
+      "options": [
+        "Bold",
+        "Italic",
+        "Underline",
+        "Numbered List"
+      ],
+      "answer": "Italic",
+      "id": "29"
+    },
+    {
+      "question": "Amira wants to underline the title of her document. Which shortcut key should she use?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+B",
+        "Ctrl+U",
+        "Ctrl+I"
+      ],
+      "answer": "Ctrl+U",
+      "id": "30"
+    },
+    {
+      "question": "In MS Word, you can change the text in the document to look different. This process is called ___________.",
+      "options": [
+        "Printing",
+        "Saving",
+        "Deleting",
+        "Formatting"
+      ],
+      "answer": "Formatting",
+      "id": "31"
+    },
+    {
+      "question": "What is the shortcut key for Undo?",
+      "options": [
+        "Ctrl+Z",
+        "Ctrl+B",
+        "Ctrl+U",
+        "Ctrl+I"
+      ],
+      "answer": "Ctrl+Z",
+      "id": "32"
+    },
+    {
+      "question": "What is the shortcut key for Print?",
+      "options": [
+        "Ctrl+Z",
+        "Ctrl+B",
+        "Ctrl+U",
+        "Ctrl+P"
+      ],
+      "answer": "Ctrl+P",
+      "id": "33"
+    },
+    {
+      "question": "Krish made a typing mistake and wants to go back to the previous sentence. Which option should he use?",
+      "options": [
+        "Save",
+        "Print",
+        "Undo",
+        "Cut"
+      ],
+      "answer": "Undo",
+      "id": "34"
+    },
+    {
+      "question": "Paul is saving his Word document for a project. Which layout format should he use for official documents?",
+      "options": [
+        "Portrait",
+        "Landscape",
+        "Cut",
+        "Undo"
+      ],
+      "answer": "Portrait",
+      "id": "35"
+    },
+    {
+      "question": "____________ is a tool to organize a large amount of data in an easy and understandable way.",
+      "options": [
+        "Excel",
+        "Chrome",
+        "Paint",
+        "Print"
+      ],
+      "answer": "Excel",
+      "id": "36"
+    },
+    {
+      "question": "Which of the following can be done using Excel?",
+      "options": [
+        "Save the document",
+        "Make complicated calculations with numbers",
+        "Print the document",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "37"
+    },
+    {
+      "question": "Each new page in the excel worksheet is called a _____________.",
+      "options": [
+        "Sheet",
+        "Row",
+        "Column",
+        "Cell"
+      ],
+      "answer": "Sheet",
+      "id": "38"
+    },
+    {
+      "question": "Harsha has selected a single line of cells from top to bottom. She has selected a __________.",
+      "options": [
+        "Page",
+        "Row",
+        "Column",
+        "Cell"
+      ],
+      "answer": "Column",
+      "id": "39"
+    },
+    {
+      "question": "Mohit wants to move from one cell to another. He can do that by using the ______ on the keyboard.",
+      "options": [
+        "Ctrl+Z",
+        "Arrow keys",
+        "Ctrl+B",
+        "A1,B1.C1 ..."
+      ],
+      "answer": "Arrow keys",
+      "id": "40"
+    },
+    {
+      "question": "What happens when we use this function? =SUM(B4:G4)",
+      "options": [
+        "The numbers in cells from B4 to G4 are added",
+        "The number in B4 is deleted",
+        "The number from B4 will be copied",
+        "The number from G4 will be copied"
+      ],
+      "answer": "The numbers in cells from B4 to G4 are added",
+      "id": "41"
+    },
+    {
+      "question": "What happens when we use this function? =AVERAGE(B4:G4)",
+      "options": [
+        "The average of numbers in cells from B4 to G4 is calculated",
+        "The number in B4 is deleted",
+        "The number from B4 will be copied",
+        "The number from G4 will be copied"
+      ],
+      "answer": "The average of numbers in cells from B4 to G4 is calculated",
+      "id": "42"
+    },
+    {
+      "question": "Which of the following is the symbol of AutoSum?",
+      "options": [
+        "\u2211",
+        "Z",
+        "X",
+        "Y"
+      ],
+      "answer": "\u2211",
+      "id": "43"
+    },
+    {
+      "question": "Vanaja wants to save her excel workbook. How can she do it?",
+      "options": [
+        "By closing the sheet",
+        "By pressing Ctrl and S on the keyboard",
+        "By deleting it",
+        "By writing it"
+      ],
+      "answer": "By pressing Ctrl and S on the keyboard",
+      "id": "44"
+    },
+    {
+      "question": "Trisha entered a number in E column and row 5. What is the name of that cell?",
+      "options": [
+        "E1",
+        "E",
+        "E5",
+        "5"
+      ],
+      "answer": "E5",
+      "id": "45"
+    },
+    {
+      "question": "Which of the following are the ways to connect your device to the internet?",
+      "options": [
+        "Use a mouse",
+        "Using a wifi or mobile data connection",
+        "Use a printer",
+        "Use bluetooth"
+      ],
+      "answer": "Using a wifi or mobile data connection",
+      "id": "46"
+    },
+    {
+      "question": "Which of the following tasks can be done using the internet?",
+      "options": [
+        "Finding Information about job openings",
+        "Create a digital resume and forward it to different companies",
+        "Learning new skills",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "47"
+    },
+    {
+      "question": "Which of the following are the top benefits of using the internet?",
+      "options": [
+        "Speed of communication",
+        "Safety",
+        "Access to information",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "48"
+    },
+    {
+      "question": "Jerry wants to use his mobile data to get the internet on other devices. Which devices can use mobile data?",
+      "options": [
+        "Tablet",
+        "Washing machine",
+        "Gas oven",
+        "Landline phone"
+      ],
+      "answer": "Tablet",
+      "id": "49"
+    },
+    {
+      "question": "Ram wants to use the Wi-Fi connection. What should he do?",
+      "options": [
+        "Connect to a Wi-Fi network he is familiar with",
+        "Connect to any WiFi network available",
+        "Do not connect to any Wifi network that needs a password. It may not be safe.",
+        "Connect to any WiFi network shared by a stranger."
+      ],
+      "answer": "Connect to a Wi-Fi network he is familiar with",
+      "id": "50"
+    },
+    {
+      "question": "______ is called the library of internet.",
+      "options": [
+        "Software",
+        "Search Engine",
+        "Hardware",
+        "Mouse"
+      ],
+      "answer": "Search Engine",
+      "id": "51"
+    },
+    {
+      "question": "We need an ______ and a search engine to access the information on the web.",
+      "options": [
+        "Internet connection",
+        "Mouse",
+        "Data cable",
+        "Key board"
+      ],
+      "answer": "Internet connection",
+      "id": "52"
+    },
+    {
+      "question": "It is very important to use the correct words to tell the search engine what to look for. These are called ______________________.",
+      "options": [
+        "Keywords",
+        "Web page",
+        "Website",
+        "Internet"
+      ],
+      "answer": "Keywords",
+      "id": "53"
+    },
+    {
+      "question": "Maya wants to find the capital of Germany, Which of the following search engines can she use to find the information?",
+      "options": [
+        "Google",
+        "Bing",
+        "Yahoo",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "54"
+    },
+    {
+      "question": "Jyothi learned that all the information is stored in \u2018web pages'. What is the role of web pages?",
+      "options": [
+        "\u2018Web pages\u2019 act as a search engine",
+        "\u2018Web pages\u2019 act as a library",
+        "\u2018Web pages\u2019 act as internet",
+        "None of these"
+      ],
+      "answer": "\u2018Web pages\u2019 act as a library",
+      "id": "55"
+    },
+    {
+      "question": "Which of the following is a universal ID card?",
+      "options": [
+        "Bank Credit card",
+        "PAN Card",
+        "Aadhaar Card",
+        "Employers ID card"
+      ],
+      "answer": "Aadhaar Card",
+      "id": "56"
+    },
+    {
+      "question": "Which website to use to book the train tickets",
+      "options": [
+        "http://www . india.gov.in/",
+        "https:// myaadhaar.uidai. gov.in",
+        "http:// www .irctc. co.in",
+        "http: //www . igod.gov.in"
+      ],
+      "answer": "http:// www .irctc. co.in",
+      "id": "57"
+    },
+    {
+      "question": "_______ website can be used to find information on schemes and initiatives across all sectors, from tourism to employment to agriculture.",
+      "options": [
+        "http://www . india.gov.in",
+        "http://www . swayam.gov.in /",
+        "http: //www . igod.gov.in",
+        "http://www . education.gov. in/"
+      ],
+      "answer": "http: //www . igod.gov.in",
+      "id": "58"
+    },
+    {
+      "question": "Anju wants to upskill herself in designing and stiching, which of the following portals will be relevant for the same?",
+      "options": [
+        "http://www . swayam.gov.in /",
+        "http: //www . igod.gov.in",
+        "http://www . india.gov.in/",
+        "None of these"
+      ],
+      "answer": "http://www . swayam.gov.in /",
+      "id": "59"
+    },
+    {
+      "question": "Priya wants to apply for her Aadhaar Card as its an important document to be submitted while joining a new job. Which of the following government portals will be helpful for her?",
+      "options": [
+        "http://www . india.gov.in/",
+        "https:// myaadhaar.uidai. gov.in",
+        "http://www . swayam.gov.in/",
+        "All of these"
+      ],
+      "answer": "https:// myaadhaar.uidai. gov.in",
+      "id": "60"
+    },
+    {
+      "question": "Which of the following is not a social media app?",
+      "options": [
+        "Instagram",
+        "WhatsApp",
+        "LinkedIn",
+        "Amazon"
+      ],
+      "answer": "Amazon",
+      "id": "61"
+    },
+    {
+      "question": "Which of the following app is not used for chatting, video calls and group calls",
+      "options": [
+        "Instagram",
+        "WhatsApp",
+        "Telegram",
+        "None of these"
+      ],
+      "answer": "None of these",
+      "id": "62"
+    },
+    {
+      "question": "______ is a profile that can show your education qualifications, your skills and your experience.",
+      "options": [
+        "Google mail",
+        "LinkedIn",
+        "WhatsApp",
+        "Telegram"
+      ],
+      "answer": "LinkedIn",
+      "id": "63"
+    },
+    {
+      "question": "Naina wants to take a few safety Measures on Social media. What does that refers to?",
+      "options": [
+        "Do not share information with unknown people",
+        "Do not share personal information",
+        "Do not send a rude or mean comment",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "64"
+    },
+    {
+      "question": "Ridhima wants to post something on her social media. What should she do to stay safe on social media?",
+      "options": [
+        "Avoid sharing any password",
+        "Avoid sharing address",
+        "Avoid sharing locations",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "65"
+    },
+    {
+      "question": "Before sharing the information on social media THINK questions to be asked by oneself;",
+      "options": [
+        "Is it True?",
+        "Is it Necessary?",
+        "Is it Helpful?",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "66"
+    },
+    {
+      "question": "Which of the following is not an example of using social media and internet in an impactful and successful way?",
+      "options": [
+        "Sharing Jokes on a particular religion",
+        "Encouraging people to donate money for the social cause",
+        "Mentoring and supporting people",
+        "Sharing verified news"
+      ],
+      "answer": "Sharing Jokes on a particular religion",
+      "id": "67"
+    },
+    {
+      "question": "_________ is an organisation that uses digital technology to help people in rural India.",
+      "options": [
+        "Digital Empowermen t (DE)",
+        "Digital Empowermen t Foundation (DEF)",
+        "Digital Education Foundation (DEF)",
+        "Digital Education Fund (DEF)"
+      ],
+      "answer": "Digital Empowermen t Foundation (DEF)",
+      "id": "68"
+    },
+    {
+      "question": "Rama has started using Social Media, as a responsible user what are the things she should not do?",
+      "options": [
+        "Posting personal information publicly",
+        "Connecting with professionals from her field",
+        "Searching jobs online",
+        "Use social media to find the latest information."
+      ],
+      "answer": "Posting personal information publicly",
+      "id": "69"
+    },
+    {
+      "question": "Radha wants to use social media for her professional growth. She could join groups according to her _____.",
+      "options": [
+        "mood",
+        "qualification",
+        "career or subject interests",
+        "age"
+      ],
+      "answer": "career or subject interests",
+      "id": "70"
+    },
+    {
+      "question": "Laws related to activities on the internet are called ________.",
+      "options": [
+        "Labour laws",
+        "Cyber laws",
+        "Environment protection laws",
+        "Criminal laws"
+      ],
+      "answer": "Cyber laws",
+      "id": "71"
+    },
+    {
+      "question": "What does SMART tips for internet safety stands for?",
+      "options": [
+        "Stay Simple Manageable Attractive Reasonable Timely",
+        "Stay Safe Don\u2019t Meet up Accepting Files Reliable Tell Someone",
+        "Stay Simple Meet Up Acceptable Reachable Tell about yourself",
+        "None of these"
+      ],
+      "answer": "Stay Safe Don\u2019t Meet up Accepting Files Reliable Tell Someone",
+      "id": "72"
+    },
+    {
+      "question": "__________ is a tool that blocks unsafe pages when you are using a search engine.",
+      "options": [
+        "Telegram",
+        "Google",
+        "Safe search",
+        "Web page"
+      ],
+      "answer": "Safe search",
+      "id": "73"
+    },
+    {
+      "question": "The safe search tool can be switched on and off for any search engine by changing the ______.",
+      "options": [
+        "Settings",
+        "Web page",
+        "Computer/ Device",
+        "View Mode"
+      ],
+      "answer": "Settings",
+      "id": "74"
+    },
+    {
+      "question": "Ritika received a message about a bank transaction she did not make. Her friends told her to report it as cybercrime. Which portal can she use to file her complaint?",
+      "options": [
+        "www. cybercrime.gov. in",
+        "www.ccrime. gov.in",
+        "www. indiacybercrime. gov.in",
+        "www. cybercrimeindia. gov.in"
+      ],
+      "answer": "www. cybercrime.gov. in",
+      "id": "75"
+    },
+    {
+      "question": "Which of the following is a correct Gmail id?",
+      "options": [
+        "xyz@gmail",
+        "xyz@gmail. com",
+        "xyz@ outlook.gmail",
+        "gmail@xyz"
+      ],
+      "answer": "xyz@gmail. com",
+      "id": "76"
+    },
+    {
+      "question": "Which of the following is used to send a copy of an email to another person without the main receiver of the email knowing?",
+      "options": [
+        "Attach file",
+        "Subject",
+        "CC(Carbon Copy)",
+        "BCC (Blind Carbon Copy)"
+      ],
+      "answer": "BCC (Blind Carbon Copy)",
+      "id": "77"
+    },
+    {
+      "question": "While creating a Gmail account \u2018Create an account for myself\u2019 option will be chosen to ________.",
+      "options": [
+        "Create a bussiness account",
+        "Create a Personal account",
+        "Create a company account",
+        "None of these"
+      ],
+      "answer": "Create a Personal account",
+      "id": "78"
+    },
+    {
+      "question": "The ______ is a few words that quickly tell what the email is about.",
+      "options": [
+        "Compose",
+        "Subject",
+        "Inbox",
+        "ID"
+      ],
+      "answer": "Subject",
+      "id": "79"
+    },
+    {
+      "question": "Azim has received a new mail from his teacher. Where can he check the mail received?",
+      "options": [
+        "Inbox",
+        "Sent",
+        "Draft",
+        "Compose"
+      ],
+      "answer": "Inbox",
+      "id": "80"
+    },
+    {
+      "question": "A mobile application or App is a software that is made to be used on a ______.",
+      "options": [
+        "Calculator",
+        "Washing machine",
+        "smart device like a smartphone or tablet",
+        "All of these"
+      ],
+      "answer": "smart device like a smartphone or tablet",
+      "id": "81"
+    },
+    {
+      "question": "______ are the most convenient way to do something online.",
+      "options": [
+        "Mobile apps",
+        "Desktop",
+        "Monitor",
+        "Keypad"
+      ],
+      "answer": "Mobile apps",
+      "id": "82"
+    },
+    {
+      "question": "Choose the mobile app form the following options.",
+      "options": [
+        "Linkedin",
+        "YouTube",
+        "Facebook",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "83"
+    },
+    {
+      "question": "Preeti wants to find a video on pasta recipe. Which of the following mobile apps can she use for the same?",
+      "options": [
+        "Whatsapp",
+        "Email",
+        "YouTube",
+        "Mobile Banking"
+      ],
+      "answer": "YouTube",
+      "id": "84"
+    },
+    {
+      "question": "Kirti attended a guest lecture. How can she use her mobile phone to understand the difficult words?",
+      "options": [
+        "Shopping app",
+        "Use a dictionary app",
+        "Grocery app",
+        "Cosmetics store app"
+      ],
+      "answer": "Use a dictionary app",
+      "id": "85"
+    },
+    {
+      "question": "Which of the following is a smart device?",
+      "options": [
+        "Smart Watch",
+        "Smart Phone",
+        "Smart TV",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "86"
+    },
+    {
+      "question": "Alexa is a _____ assistant.",
+      "options": [
+        "Digital voice controlled",
+        "Office Assistant",
+        "Home Assistant",
+        "None of these"
+      ],
+      "answer": "Digital voice controlled",
+      "id": "87"
+    },
+    {
+      "question": "Which of the following tasks can be performed by Alexa?",
+      "options": [
+        "Check the weather",
+        "Call phones",
+        "Play music",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "88"
+    },
+    {
+      "question": "Which of the following is a voice- controlled digital assistant?",
+      "options": [
+        "Alexa",
+        "Siri",
+        "Google Assistant",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "89"
+    },
+    {
+      "question": "Komal wants to regularly monitor her body conditions like temperature and heartbeat. Which of the following device can help her?",
+      "options": [
+        "Mobile Phone",
+        "Calculator",
+        "Siri",
+        "Smart watch"
+      ],
+      "answer": "Smart watch",
+      "id": "90"
+    },
+    {
+      "question": "For online meetings, you can share ____for the people to join the meeting.",
+      "options": [
+        "Personal mobile number",
+        "Location",
+        "email id",
+        "Meeting Link or ID"
+      ],
+      "answer": "Meeting Link or ID",
+      "id": "91"
+    },
+    {
+      "question": "Which of the following feature in not available in online meeting tools?",
+      "options": [
+        "Display Partcipants contact number",
+        "Everyone can speak to each other and hear each other.",
+        "Everyone can turn on the camera on their own devices",
+        "After the meeting, the online meeting can be closed and ended."
+      ],
+      "answer": "Display Partcipants contact number",
+      "id": "92"
+    },
+    {
+      "question": "To find list of Participants in a Zoom meeting, click on participants option on _____ of the screen.",
+      "options": [
+        "Top",
+        "Bottom",
+        "Left Side",
+        "Right Side"
+      ],
+      "answer": "Bottom",
+      "id": "93"
+    },
+    {
+      "question": "Post-covid we adopted the virtual world. Meeting that happens online through the internet are called as__________________.",
+      "options": [
+        "Online meeting",
+        "Physical Meeting",
+        "Offline Meeting",
+        "None of these"
+      ],
+      "answer": "Online meeting",
+      "id": "94"
+    },
+    {
+      "question": "Meena is using google meet for the first time. She can use the same login account details as her __________.",
+      "options": [
+        "Amazon account",
+        "Bank account",
+        "Gmail account",
+        "Zoho account"
+      ],
+      "answer": "Gmail account",
+      "id": "95"
+    },
+    {
+      "question": "Which of the following websites is helpful to learn new languages for free?",
+      "options": [
+        "LinkedIn",
+        "Duolingo",
+        "Codecademy",
+        "All of these"
+      ],
+      "answer": "Duolingo",
+      "id": "96"
+    },
+    {
+      "question": "Which of the following websites is helpful in learning and career growth?",
+      "options": [
+        "Codecademy",
+        "Khan Academy",
+        "Coursera",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "97"
+    },
+    {
+      "question": "Sam wants to learn computer coding skills for free and his friend has recommended____ website for the same.",
+      "options": [
+        "Duolingo",
+        "Khan Academy",
+        "NPTEL",
+        "Codecademy"
+      ],
+      "answer": "Codecademy",
+      "id": "98"
+    },
+    {
+      "question": "Khan Academy is the most recommended website for______.",
+      "options": [
+        "free online material on school subjects like economics, physics, algebra,etc.",
+        "Online meetings",
+        "learning a new language for free",
+        "Job search"
+      ],
+      "answer": "free online material on school subjects like economics, physics, algebra,etc.",
+      "id": "99"
+    },
+    {
+      "question": "Internet is the best place to be a __________________.",
+      "options": [
+        "Life long learner",
+        "Self learner",
+        "Continuous learner",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "100"
+    }
+  ],
+  "Financial and Legal Literacy": [
+    {
+      "question": "Financial literacy is understanding the way money is ___________.",
+      "options": [
+        "saved",
+        "spent",
+        "invested",
+        "saved, spent & invested"
+      ],
+      "answer": "saved, spent & invested",
+      "id": "1"
+    },
+    {
+      "question": "Costly things that are not essential for our survival are ______.",
+      "options": [
+        "Needs",
+        "Money",
+        "Luxuries",
+        "Savings"
+      ],
+      "answer": "Luxuries",
+      "id": "2"
+    },
+    {
+      "question": "Things that are needed for survival are _______.",
+      "options": [
+        "Wants",
+        "Needs",
+        "Savings",
+        "Expenses"
+      ],
+      "answer": "Needs",
+      "id": "3"
+    },
+    {
+      "question": "Sunitha earns Rs.10,000 every month. After setting a monthly budget amount, she is able to save Rs. 2000 every month. She will use this money in case of _____.",
+      "options": [
+        "emergencies",
+        "party",
+        "bills",
+        "travel"
+      ],
+      "answer": "emergencies",
+      "id": "4"
+    },
+    {
+      "question": "Gopi spends his salary on movies, groceries, house rent and clothes. Where can he reduce his expenses to save some money?",
+      "options": [
+        "Clothes",
+        "House rent",
+        "Movies",
+        "Groceries"
+      ],
+      "answer": "Movies",
+      "id": "5"
+    },
+    {
+      "question": "All financial activity can be done through a ____.",
+      "options": [
+        "Bank",
+        "School",
+        "College",
+        "Workplace"
+      ],
+      "answer": "Bank",
+      "id": "6"
+    },
+    {
+      "question": "Institution licensed by the government to keep money safe is _____.",
+      "options": [
+        "Hospital",
+        "Bank",
+        "Panchayat",
+        "Assembly"
+      ],
+      "answer": "Bank",
+      "id": "7"
+    },
+    {
+      "question": "When a person deposits a fixed sum of money every over a fixed period of time, it is a _____ account.",
+      "options": [
+        "Recurring Deposit",
+        "Saving Account",
+        "Current Account",
+        "Fixed Deposit"
+      ],
+      "answer": "Recurring Deposit",
+      "id": "8"
+    },
+    {
+      "question": "Arya has joined a new company. They want him to open a ______ so that they can credit his salary.",
+      "options": [
+        "Fixed deposit",
+        "Recurring deposit",
+        "Salary account",
+        "Current account"
+      ],
+      "answer": "Salary account",
+      "id": "9"
+    },
+    {
+      "question": "Avinash needs to know about his transactions from the last month. How can he get these details?",
+      "options": [
+        "Passbook",
+        "Debit Card",
+        "Credit card",
+        "Cheque book"
+      ],
+      "answer": "Passbook",
+      "id": "10"
+    },
+    {
+      "question": "Online banking is also called _____.",
+      "options": [
+        "Home banking",
+        "Office banking",
+        "Net banking",
+        "Self banking"
+      ],
+      "answer": "Net banking",
+      "id": "11"
+    },
+    {
+      "question": "What can you do with online banking?",
+      "options": [
+        "Send money to someone",
+        "Open a bank account",
+        "Get details of all the transactions",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "12"
+    },
+    {
+      "question": "Disha wants to repay her loan. How can she do it without going to the bank?",
+      "options": [
+        "Online transfer",
+        "Open bank account",
+        "Close account",
+        "Withdraw from ATM"
+      ],
+      "answer": "Online transfer",
+      "id": "13"
+    },
+    {
+      "question": "Indu booked her railway ticket from the website and paid using online banking. What type of transaction is it?",
+      "options": [
+        "Cash Payment",
+        "Digital transaction",
+        "Cheque payment",
+        "Credit"
+      ],
+      "answer": "Digital transaction",
+      "id": "14"
+    },
+    {
+      "question": "Which of the following are ways to conduct a digital transaction?",
+      "options": [
+        "Digital Wallet",
+        "UPI Payment",
+        "Credit Card",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "15"
+    },
+    {
+      "question": "Net banking is done on a computer through a _________.",
+      "options": [
+        "Relative",
+        "Friend",
+        "Cashier",
+        "Bank website"
+      ],
+      "answer": "Bank website",
+      "id": "16"
+    },
+    {
+      "question": "We can use _________to do mobile banking on a smartphone.",
+      "options": [
+        "Gaming app",
+        "Mobile banking app",
+        "Weather app",
+        "Passbook"
+      ],
+      "answer": "Mobile banking app",
+      "id": "17"
+    },
+    {
+      "question": "What can we use net banking for?",
+      "options": [
+        "Checking bank statement",
+        "Transferring funds",
+        "Paying bills",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "18"
+    },
+    {
+      "question": "Jaya used her friend's laptop to log into her bank account. What should she do before giving the laptop back?",
+      "options": [
+        "Close the laptop",
+        "Stay logged in",
+        "Log out of her bank account",
+        "Close the website"
+      ],
+      "answer": "Log out of her bank account",
+      "id": "19"
+    },
+    {
+      "question": "Pragathi downloaded the bank app on her mobile. What should she not share with anyone?",
+      "options": [
+        "Password",
+        "MPIN",
+        "OTP",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "20"
+    },
+    {
+      "question": "What is an easy and quick way to make online payments?",
+      "options": [
+        "Digital wallets",
+        "Cheque payment",
+        "Cash on delivery",
+        "Going to the bank"
+      ],
+      "answer": "Digital wallets",
+      "id": "21"
+    },
+    {
+      "question": "Which among these is NOT a digital wallet?",
+      "options": [
+        "MobiKwik",
+        "Paytm",
+        "PhonePe",
+        "Internet explorer"
+      ],
+      "answer": "Internet explorer",
+      "id": "22"
+    },
+    {
+      "question": "A ________ is a square, black and white code that you can scan with the camera and use.",
+      "options": [
+        "QR Code",
+        "Password",
+        "OTP",
+        "User ID"
+      ],
+      "answer": "QR Code",
+      "id": "23"
+    },
+    {
+      "question": "On a bank holiday, which of these methods cannot be used by Shahab for money transfer?",
+      "options": [
+        "BHIM app",
+        "Google pay",
+        "Deposit at the bank branch",
+        "Amazon pay"
+      ],
+      "answer": "Deposit at the bank branch",
+      "id": "24"
+    },
+    {
+      "question": "Sam opened a new shop. Which of these methods can he use to receive payments into his account?",
+      "options": [
+        "Movie ticket",
+        "QR code",
+        "Library card",
+        "Gift card"
+      ],
+      "answer": "QR code",
+      "id": "25"
+    },
+    {
+      "question": "Regular payment made by the employer to the employee is ___.",
+      "options": [
+        "Appraisal",
+        "Debt",
+        "Loan",
+        "Salary"
+      ],
+      "answer": "Salary",
+      "id": "26"
+    },
+    {
+      "question": "Deductions should be paid from the ___.",
+      "options": [
+        "Gross salary",
+        "Net Salary",
+        "Earnings",
+        "Basic Salary"
+      ],
+      "answer": "Gross salary",
+      "id": "27"
+    },
+    {
+      "question": "The government collects ____ from the citizens.",
+      "options": [
+        "Loan",
+        "Tax",
+        "Deductions",
+        "Conveyance"
+      ],
+      "answer": "Tax",
+      "id": "28"
+    },
+    {
+      "question": "Karthik has joined a new company. His salary is Rs. 3 lakhs per year. This is his ____salary.",
+      "options": [
+        "Monthly",
+        "Basic",
+        "Net",
+        "Gross"
+      ],
+      "answer": "Gross",
+      "id": "29"
+    },
+    {
+      "question": "Simon\u2019s company calculated the income tax and paid on behalf of him. This is called ____.",
+      "options": [
+        "House rent allowance",
+        "Interest",
+        "TDS",
+        "NPS"
+      ],
+      "answer": "TDS",
+      "id": "30"
+    },
+    {
+      "question": "The amount put aside without being spent is ____.",
+      "options": [
+        "Savings",
+        "Bill",
+        "Tax",
+        "Deductions"
+      ],
+      "answer": "Savings",
+      "id": "31"
+    },
+    {
+      "question": "Money put aside for a big expense many years from now is ____ savings.",
+      "options": [
+        "Long term",
+        "Goal",
+        "Emergency",
+        "Short term"
+      ],
+      "answer": "Long term",
+      "id": "32"
+    },
+    {
+      "question": "Which saving option would you choose to buy an expensive bike you have always wanted?",
+      "options": [
+        "Long term savings",
+        "Goal savings",
+        "Emergency savings",
+        "None of these"
+      ],
+      "answer": "Goal savings",
+      "id": "33"
+    },
+    {
+      "question": "Rajesh wants to save Rs. 6000 every year for his old age. How much should he save every month?",
+      "options": [
+        "100",
+        "500",
+        "50",
+        "6000"
+      ],
+      "answer": "500",
+      "id": "34"
+    },
+    {
+      "question": "Abhi wants to teach his 10-year-old daughter to save money from the pocket money she receives every month. Which option is the best?",
+      "options": [
+        "Fixed Deposit",
+        "Salary Account",
+        "Piggy Bank",
+        "None of these"
+      ],
+      "answer": "Piggy Bank",
+      "id": "35"
+    },
+    {
+      "question": "Money borrowed from bank or a person is called ____.",
+      "options": [
+        "Tax",
+        "Gift",
+        "Interest",
+        "Loan"
+      ],
+      "answer": "Loan",
+      "id": "36"
+    },
+    {
+      "question": "What is the benefit of paying money regularly for an insurance plan?",
+      "options": [
+        "It provides free entertainment.",
+        "It covers travel expenses.",
+        "It helps us manage emergency situations.",
+        "It increases monthly savings."
+      ],
+      "answer": "It helps us manage emergency situations.",
+      "id": "37"
+    },
+    {
+      "question": "The extra amount we pay for borrowing money is _____.",
+      "options": [
+        "Loan",
+        "Interest",
+        "Hidden charges",
+        "Processing charges"
+      ],
+      "answer": "Interest",
+      "id": "38"
+    },
+    {
+      "question": "Rita wants to complete her higher education from a good university. Which loan should she apply for?",
+      "options": [
+        "Home loan",
+        "Personal loan",
+        "Education loan",
+        "Auto loan"
+      ],
+      "answer": "Education loan",
+      "id": "39"
+    },
+    {
+      "question": "Priya wants to purchase a bike. Which loan should she apply for?",
+      "options": [
+        "Home loan",
+        "Personal loan",
+        "Education loan",
+        "Auto loan"
+      ],
+      "answer": "Auto loan",
+      "id": "40"
+    },
+    {
+      "question": "Knowledge and awareness of laws is called ____.",
+      "options": [
+        "Digital literacy",
+        "Legal literacy",
+        "Financial literacy",
+        "English literacy"
+      ],
+      "answer": "Legal literacy",
+      "id": "41"
+    },
+    {
+      "question": "RTI means_________.",
+      "options": [
+        "Road Transport Institute",
+        "Right to Insurance",
+        "Right to Inform",
+        "Right to Information"
+      ],
+      "answer": "Right to Information",
+      "id": "42"
+    },
+    {
+      "question": "Online portal set up by the government to make any government related complaints is ___.",
+      "options": [
+        "Public grievances portal",
+        "Place grievances portal",
+        "Public informing portal",
+        "Public information portal"
+      ],
+      "answer": "Public grievances portal",
+      "id": "43"
+    },
+    {
+      "question": "Sudha just delivered a baby. For how long Is she entitled to take a maternity leave as an employee?",
+      "options": [
+        "2 months",
+        "5 months",
+        "26 weeks",
+        "One year"
+      ],
+      "answer": "26 weeks",
+      "id": "44"
+    },
+    {
+      "question": "Paul just got hired and received his employment letter. He is supposed to read it carefully and sign as it is a ____.",
+      "options": [
+        "Certificate",
+        "Legal binding document",
+        "Marks card",
+        "Poster"
+      ],
+      "answer": "Legal binding document",
+      "id": "45"
+    }
+  ],
+  "Diversity and Inclusion": [
+    {
+      "question": "Physical body and the sexual organs that we are born with refers to person\u2019s_______.",
+      "options": [
+        "Gender",
+        "Sex",
+        "Age",
+        "Biodata"
+      ],
+      "answer": "Sex",
+      "id": "1"
+    },
+    {
+      "question": "_____ is a belief/idea which may not be true.",
+      "options": [
+        "Sex",
+        "Gender",
+        "Stereotype",
+        "Feminine"
+      ],
+      "answer": "Stereotype",
+      "id": "2"
+    },
+    {
+      "question": "People who are born in one sex, but they know that they belong to another sex are_______.",
+      "options": [
+        "Transpersons",
+        "Stereotypical",
+        "Males",
+        "Females"
+      ],
+      "answer": "Transpersons",
+      "id": "3"
+    },
+    {
+      "question": "Even though Roopa is highly efficient at her job, her manager gives most of the field/travel related projects to Ramesh. This can be an example of____",
+      "options": [
+        "Stereotype",
+        "Trust",
+        "Diversity",
+        "Equality"
+      ],
+      "answer": "Stereotype",
+      "id": "4"
+    },
+    {
+      "question": "Azim wants to learn dancing and challange the gender stereotype that only women should learn dancing. It is completely ________.",
+      "options": [
+        "wrong",
+        "Impossible",
+        "funny",
+        "okay"
+      ],
+      "answer": "okay",
+      "id": "5"
+    },
+    {
+      "question": "_________can lead to division of people, communites and familes.",
+      "options": [
+        "Gender equality",
+        "Respecting all people",
+        "Gender discrimination",
+        "Same rights"
+      ],
+      "answer": "Gender discrimination",
+      "id": "6"
+    },
+    {
+      "question": "When discrimination is done to help someone in need, that is called______ discrimination.",
+      "options": [
+        "situational",
+        "gender",
+        "positive",
+        "negative"
+      ],
+      "answer": "positive",
+      "id": "7"
+    },
+    {
+      "question": "John wasn't selected for a job because he is a man. What type of discrimination is this?",
+      "options": [
+        "Age discrimination",
+        "Color discrimination",
+        "Gender discrimination",
+        "Education discrimination"
+      ],
+      "answer": "Gender discrimination",
+      "id": "8"
+    },
+    {
+      "question": "In India, the number of boys/men who can get education is much higher than girls/women. What type of discrimination is this?",
+      "options": [
+        "Color discrimination",
+        "Religion based discrimination",
+        "Age discrimination",
+        "Gender discrimination"
+      ],
+      "answer": "Gender discrimination",
+      "id": "9"
+    },
+    {
+      "question": "Which of the following could be possible reasons for gender based discrimination?",
+      "options": [
+        "Social Norms",
+        "Lack of Education",
+        "Lack of Awareness",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "10"
+    },
+    {
+      "question": "Equality means in the same situation, people have the ______________.",
+      "options": [
+        "Same rights",
+        "Same age",
+        "Same color",
+        "Same height"
+      ],
+      "answer": "Same rights",
+      "id": "11"
+    },
+    {
+      "question": "Irrespective of their gender identities, all people must have the same rights. This is called ______.",
+      "options": [
+        "Gender equality",
+        "Gender Stereotype",
+        "Gender Descrimination",
+        "Gender rights"
+      ],
+      "answer": "Gender equality",
+      "id": "12"
+    },
+    {
+      "question": "Women and men are often not paid the same salary for the same job. This is known as ______.",
+      "options": [
+        "Gender gap",
+        "Gender pay gap",
+        "Learning gap",
+        "Nutrition gap"
+      ],
+      "answer": "Gender pay gap",
+      "id": "13"
+    },
+    {
+      "question": "Anita and her partner are paid the same salary for the same job. This is a good example of _________.",
+      "options": [
+        "Jealousy",
+        "Gender equality",
+        "Discrimination",
+        "Stereotype"
+      ],
+      "answer": "Gender equality",
+      "id": "15"
+    },
+    {
+      "question": "Workplace is a place where employees from different backgrounds are hired. They work in a safe and respectful environment. This is an example of _________.",
+      "options": [
+        "Diversity",
+        "Workplace bullying",
+        "Discrimination",
+        "Bad workplace management"
+      ],
+      "answer": "Diversity",
+      "id": "16"
+    },
+    {
+      "question": "People of different sex, gender, caste, class, culture, age, physical appearance, education, abilities must feel______.",
+      "options": [
+        "Unsafe and worried",
+        "Safe and respected",
+        "Unsafe and bullied",
+        "Threatened and policed"
+      ],
+      "answer": "Safe and respected",
+      "id": "17"
+    },
+    {
+      "question": "A diverse workplace increases ______.",
+      "options": [
+        "Productivity",
+        "Workload",
+        "Stress",
+        "Tension"
+      ],
+      "answer": "Productivity",
+      "id": "18"
+    },
+    {
+      "question": "Tanvi\u2019s team has many barriers to having a diverse workforce. This may lead to ______.",
+      "options": [
+        "Better communication",
+        "Conflicts affecting work",
+        "Good teamwork",
+        "Increased productivity"
+      ],
+      "answer": "Conflicts affecting work",
+      "id": "19"
+    },
+    {
+      "question": "Meena is not comfortable talking to her colleagues in English. This is an example of ____________.",
+      "options": [
+        "Caste barrier",
+        "Cultural barrier",
+        "Communicatio n barrier",
+        "Gender barrier"
+      ],
+      "answer": "Communicatio n barrier",
+      "id": "20"
+    },
+    {
+      "question": "The practice of including people within any group or social setting with respect and empathy is called ________.",
+      "options": [
+        "Inclusion",
+        "Conflict",
+        "Gender based discrimination",
+        "Gender stereotype"
+      ],
+      "answer": "Inclusion",
+      "id": "21"
+    },
+    {
+      "question": "An inclusive environment is needed for happiness and _____ at work.",
+      "options": [
+        "Ideas",
+        "Growth",
+        "Wage gap",
+        "Stereotype"
+      ],
+      "answer": "Growth",
+      "id": "22"
+    },
+    {
+      "question": "Inclusion in a workplace happens when every member of the company gets the same ______ at work.",
+      "options": [
+        "Chances",
+        "Culture",
+        "Nutrition",
+        "Age"
+      ],
+      "answer": "Chances",
+      "id": "23"
+    },
+    {
+      "question": "You and your coworker, David are going for lunch. David uses a wheelchair. What should you keep in mind when selecting a restaurant?",
+      "options": [
+        "Choose any resturant",
+        "Selecting the most expensive restaurant",
+        "Choose a restaurant with a wheelchair ramp and accessible facilities",
+        "Go alone"
+      ],
+      "answer": "Choose a restaurant with a wheelchair ramp and accessible facilities",
+      "id": "24"
+    },
+    {
+      "question": "Subir wants to celebrate all festivals at his workplace. This shows that he is ___________.",
+      "options": [
+        "Inclusive",
+        "Productive",
+        "Disciplined",
+        "Silent"
+      ],
+      "answer": "Inclusive",
+      "id": "25"
+    },
+    {
+      "question": "__________is a serious issue that affects an individual\u2019s mental, emotional, physical wellbeing in the workplace.",
+      "options": [
+        "Company rules",
+        "Meeting with the manager",
+        "Sexual harassment",
+        "Travel leave"
+      ],
+      "answer": "Sexual harassment",
+      "id": "26"
+    },
+    {
+      "question": "The Indian government passed the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act in 2013. In simpler terms, it is also called _______.",
+      "options": [
+        "SOS",
+        "SHWW",
+        "PPR",
+        "POSH"
+      ],
+      "answer": "POSH",
+      "id": "27"
+    },
+    {
+      "question": "As per the POSH Act, any workplace that has 10 or more employees must constitute an _______.",
+      "options": [
+        "Internal Committee (IC).",
+        "Employees",
+        "Police Station",
+        "Help desk"
+      ],
+      "answer": "Internal Committee (IC).",
+      "id": "28"
+    },
+    {
+      "question": "Sarah notices a colleague, John, making unwelcome jokes about someone\u2019s clothes at the office party. What should Sarah do according to the POSH Act?",
+      "options": [
+        "Ignore it, John might be joking",
+        "Tell John directly to stop",
+        "Report the incident to Internal Committee (IC)",
+        "Make a sarcastic comment back at John"
+      ],
+      "answer": "Report the incident to Internal Committee (IC)",
+      "id": "29"
+    },
+    {
+      "question": "Prachi goes to a Government ITI in the morning and then comes to office in a company cab to attend an online meeting with an employer. Which of the following are considered as a workplace?",
+      "options": [
+        "Office space",
+        "Government ITI",
+        "Online meeting",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "30"
+    }
+  ],
+  "Entrepreneurship": [
+    {
+      "question": "Entrepreneurship means _______.",
+      "options": [
+        "Starting a new career",
+        "Managing career",
+        "Running your own business",
+        "Supporting a business person"
+      ],
+      "answer": "Running your own business",
+      "id": "1"
+    },
+    {
+      "question": "What are the duties of an entrepreneur?",
+      "options": [
+        "Talking to customers",
+        "Managing finances and budgets",
+        "Managing the business",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "2"
+    },
+    {
+      "question": "Which of the following is the BEST definition of profit?",
+      "options": [
+        "The total amount of money a business makes from selling goods or services.",
+        "The money a business owner spends on personal expenses.",
+        "The revenue or earnings which remain with the business owner, after all the costs are paid.",
+        "The total amount of money a business earns before paying taxes."
+      ],
+      "answer": "The revenue or earnings which remain with the business owner, after all the costs are paid.",
+      "id": "3"
+    },
+    {
+      "question": "Pratibha wants to start a Biriyani Hotel. What will she need first?",
+      "options": [
+        "Business plan",
+        "Name Board",
+        "Food Items",
+        "Kitchen Equipments"
+      ],
+      "answer": "Business plan",
+      "id": "4"
+    },
+    {
+      "question": "Shaheen wants good chefs to work in her hotel. What is an effective way to hire them?",
+      "options": [
+        "By reaching out other hotel staffs",
+        "By advertising the job",
+        "By asking his relatives",
+        "None of these"
+      ],
+      "answer": "By advertising the job",
+      "id": "5"
+    },
+    {
+      "question": "What is the most important skill needed to be a successful entrepreneur?",
+      "options": [
+        "Earning money",
+        "Giving up on failure",
+        "Having an Entrepreneuria l Mindset",
+        "Expanding markets"
+      ],
+      "answer": "Having an Entrepreneuria l Mindset",
+      "id": "6"
+    },
+    {
+      "question": "An Entrepreneur can help the society by___________ .",
+      "options": [
+        "Seeking new opportunities",
+        "Marketing the product",
+        "Working with a team",
+        "Creating job opportunities"
+      ],
+      "answer": "Creating job opportunities",
+      "id": "7"
+    },
+    {
+      "question": "What are some of the qualities of a strong entrepreneur?",
+      "options": [
+        "Learning from failures",
+        "Building relationship with customers",
+        "Working hard",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "8"
+    },
+    {
+      "question": "Pooja started a food court that was very successful with many customers. After a year, the number of customers decreased. What should Pooja do to solve this problem?",
+      "options": [
+        "Change the Cooking Style",
+        "Collect the Feedback from the Customers",
+        "Close the Food court",
+        "Change her business"
+      ],
+      "answer": "Collect the Feedback from the Customers",
+      "id": "9"
+    },
+    {
+      "question": "Raju wants to start a Textile shop. What should he do first?",
+      "options": [
+        "Rent a Shop",
+        "Purchase New Fabrics",
+        "Prepare a Business Plan",
+        "Hire Staff"
+      ],
+      "answer": "Prepare a Business Plan",
+      "id": "10"
+    },
+    {
+      "question": "Customers' needs can be understood through ____________.",
+      "options": [
+        "Customer Survey",
+        "Selling",
+        "Talking to our family",
+        "Customer service"
+      ],
+      "answer": "Customer Survey",
+      "id": "21"
+    },
+    {
+      "question": "An Entrepreneur needs to maintain good _______ with his customers.",
+      "options": [
+        "Communication",
+        "Relationship",
+        "Behavior",
+        "Friendship"
+      ],
+      "answer": "Relationship",
+      "id": "22"
+    },
+    {
+      "question": "Why do customers like a product or service?",
+      "options": [
+        "Good Price",
+        "Good Quality",
+        "Feel of the product or service",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "23"
+    },
+    {
+      "question": "Shilpa wants to start a soap-making company. What kind of questions should she NOT ask her customers?",
+      "options": [
+        "Which types of soaps do you buy?",
+        "Do you like to eat chats?",
+        "How much do you pay for soap?",
+        "Do you use soap?"
+      ],
+      "answer": "Do you like to eat chats?",
+      "id": "24"
+    },
+    {
+      "question": "Roopa wants to start a new business. But she is not sure which product she should choose to start her business. What will be her basic research to finalize her product?",
+      "options": [
+        "Loan from Banks",
+        "Buying products from others",
+        "Search how to advertise the product",
+        "Reserach on products & services that customers are currently using"
+      ],
+      "answer": "Reserach on products & services that customers are currently using",
+      "id": "25"
+    },
+    {
+      "question": "Product and service are two things that can be sold. Product is what can be seen, touched and used. Service is what we _______.",
+      "options": [
+        "Buy from vegetable shop",
+        "Feel, Experience and Enjoy",
+        "Pay with Gpay",
+        "Do not enjoy"
+      ],
+      "answer": "Feel, Experience and Enjoy",
+      "id": "26"
+    },
+    {
+      "question": "Product is an object that can be____________.",
+      "options": [
+        "Seen",
+        "Touched",
+        "Seen, Touched and Used",
+        "Used"
+      ],
+      "answer": "Seen, Touched and Used",
+      "id": "27"
+    },
+    {
+      "question": "Sharvan serves as a delivery agent delivering tomatoes from a farmer to a company that makes tomato sauce. What is Sharvan\u2019s job?",
+      "options": [
+        "Seller",
+        "Service Provider",
+        "Buyer",
+        "Distributor"
+      ],
+      "answer": "Service Provider",
+      "id": "28"
+    },
+    {
+      "question": "Select the example of a service from the options.",
+      "options": [
+        "Masala Dosa",
+        "Mobile Repair",
+        "Water Bottle",
+        "Chicken Kebab"
+      ],
+      "answer": "Mobile Repair",
+      "id": "29"
+    },
+    {
+      "question": "Select the example of a product from the options.",
+      "options": [
+        "Home painting",
+        "Parlour service",
+        "Shirt",
+        "Bike repair"
+      ],
+      "answer": "Shirt",
+      "id": "30"
+    },
+    {
+      "question": "A business idea should ________________ .",
+      "options": [
+        "Satisfy only my needs",
+        "Fulfill customer needs or solve their problems",
+        "Save the world",
+        "None of these"
+      ],
+      "answer": "Fulfill customer needs or solve their problems",
+      "id": "31"
+    },
+    {
+      "question": "A good business idea for a young or new entrepreneur should be sustainable. This means __________.",
+      "options": [
+        "It is easy to use",
+        "It has many details",
+        "It has budget",
+        "It is planned for the present and future business growth"
+      ],
+      "answer": "It is planned for the present and future business growth",
+      "id": "32"
+    },
+    {
+      "question": "A good business idea should be_________.",
+      "options": [
+        "very common",
+        "a short term plan",
+        "very expensive to start a business",
+        "unique, sustainable & low on investment"
+      ],
+      "answer": "unique, sustainable & low on investment",
+      "id": "33"
+    },
+    {
+      "question": "Low investment business plan means ________",
+      "options": [
+        "The plan is a new idea",
+        "The plan needs a small amount to start a business",
+        "The plan should be simple",
+        "The plan should start immediately"
+      ],
+      "answer": "The plan needs a small amount to start a business",
+      "id": "34"
+    },
+    {
+      "question": "Unique Selling Proposition or USP of a business plan refers to _________.",
+      "options": [
+        "A special budget for the business",
+        "A new customer for the business",
+        "A special or different idea for a business",
+        "An old business is updated"
+      ],
+      "answer": "A special or different idea for a business",
+      "id": "35"
+    },
+    {
+      "question": "A ______ is a document with complete strategy for the business.",
+      "options": [
+        "Strategy Report",
+        "Action Plan",
+        "Business plan",
+        "Stakeholder Report"
+      ],
+      "answer": "Business plan",
+      "id": "36"
+    },
+    {
+      "question": "_____ is not a part of a good business plan.",
+      "options": [
+        "Weather Report",
+        "Marketing Strategy",
+        "Customer Analysis",
+        "Budget"
+      ],
+      "answer": "Weather Report",
+      "id": "37"
+    },
+    {
+      "question": "______ is about the competition in the online or offline market.",
+      "options": [
+        "People Analysis",
+        "Competitor Analysis",
+        "Customer Analysis",
+        "Budget plan"
+      ],
+      "answer": "Competitor Analysis",
+      "id": "38"
+    },
+    {
+      "question": "How can we understand what customers want?",
+      "options": [
+        "By doing research on customer needs",
+        "By advertising the business",
+        "Selling a new product",
+        "By moving to a new business"
+      ],
+      "answer": "By doing research on customer needs",
+      "id": "39"
+    },
+    {
+      "question": "________ part of a business plan has details of money retated details of the whole business.",
+      "options": [
+        "Product Details",
+        "Customer Analysis",
+        "Business Succession Plan",
+        "Costing"
+      ],
+      "answer": "Costing",
+      "id": "40"
+    },
+    {
+      "question": "A _______ is a short and effective presentation to describe the business.",
+      "options": [
+        "Customer Analysis",
+        "Communication",
+        "Return on Investment",
+        "Business Pitch"
+      ],
+      "answer": "Business Pitch",
+      "id": "41"
+    },
+    {
+      "question": "A business pitch is presented to investors who helps us with _____, _____, and _____.",
+      "options": [
+        "Customer and Quality",
+        "Money, Resources, and Mentoring Support",
+        "Plan and Marketing",
+        "Profilt and Loss"
+      ],
+      "answer": "Money, Resources, and Mentoring Support",
+      "id": "42"
+    },
+    {
+      "question": "Who can support Entrepreneurs by providing business schemes and loans at low interest rates?",
+      "options": [
+        "Customers",
+        "Startup Investors",
+        "Banks",
+        "Friends"
+      ],
+      "answer": "Banks",
+      "id": "43"
+    },
+    {
+      "question": "Shyna wants to start a masala powder business. She is presenting a business pitch to the bank manager. How long should her business picth be?",
+      "options": [
+        "2 to 3 mins",
+        "10 mins",
+        "15 mins",
+        "1 min"
+      ],
+      "answer": "2 to 3 mins",
+      "id": "44"
+    },
+    {
+      "question": "In a business, the money involved in building a product is called________.",
+      "options": [
+        "Cost",
+        "Profit",
+        "Price",
+        "Discount"
+      ],
+      "answer": "Cost",
+      "id": "45"
+    },
+    {
+      "question": "A small business run by a single person is called as ______.",
+      "options": [
+        "Multinational Unit",
+        "Partnership",
+        "Sole Proprietorship",
+        "Private Limited"
+      ],
+      "answer": "Sole Proprietorship",
+      "id": "46"
+    },
+    {
+      "question": "Bindu has started a small auto repair shop. She is the only person managing the business. Which kind of business it is?",
+      "options": [
+        "Partnership",
+        "Private Limited",
+        "Multinational Unit",
+        "Sole Proprietorship"
+      ],
+      "answer": "Sole Proprietorship",
+      "id": "47"
+    },
+    {
+      "question": "_____ is the ministry in the Govt. of India that forms and implements the rules and regulations for enterprises in India.",
+      "options": [
+        "MSDE",
+        "MSME",
+        "NIMI",
+        "DGT"
+      ],
+      "answer": "MSME",
+      "id": "48"
+    },
+    {
+      "question": "Which document is not required to complete UDYAM/MSME registration?",
+      "options": [
+        "PAN Card",
+        "Aadhar Card",
+        "Income Tax Return",
+        "Blood Certificate"
+      ],
+      "answer": "Blood Certificate",
+      "id": "49"
+    },
+    {
+      "question": "Rahim is filing tax for the first time for his business. Which of these elements are NOT needed for filing tax?",
+      "options": [
+        "Birth Certificate",
+        "PAN Card",
+        "Aadhar Card",
+        "Income Tax Return"
+      ],
+      "answer": "Income Tax Return",
+      "id": "50"
+    },
+    {
+      "question": "Price is an improtant part of marketing. Price means __________",
+      "options": [
+        "Marketing",
+        "Rate of a product in rupees",
+        "Promotion",
+        "Raw Materials"
+      ],
+      "answer": "Rate of a product in rupees",
+      "id": "51"
+    },
+    {
+      "question": "Sahil is giving festival offers, free samples and price discounts at the opening of his business. This is called ______.",
+      "options": [
+        "Market scan",
+        "Packaging",
+        "Promotion",
+        "Selling"
+      ],
+      "answer": "Promotion",
+      "id": "52"
+    },
+    {
+      "question": "Marketing helps the customer to learn about",
+      "options": [
+        "Price",
+        "Availability",
+        "Special Discounts",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "53"
+    },
+    {
+      "question": "Which among the following is not a part of 7P\u2019s of marketing.",
+      "options": [
+        "Product",
+        "Packaging",
+        "Price",
+        "Pickles"
+      ],
+      "answer": "Pickles",
+      "id": "54"
+    },
+    {
+      "question": "Tom wants to start a shop for selling books, pens etc. Which is the best location to have his shop?",
+      "options": [
+        "Near college and schools",
+        "Near the river",
+        "At his house",
+        "Near fish market"
+      ],
+      "answer": "Near college and schools",
+      "id": "55"
+    },
+    {
+      "question": "Total cost is equal to ?",
+      "options": [
+        "Variable Cost + Discount",
+        "Investment + Fixed Cost",
+        "Variable Cost + Fixed cost",
+        "Fixed Salary + ROI"
+      ],
+      "answer": "Variable Cost + Fixed cost",
+      "id": "56"
+    },
+    {
+      "question": "_____ cost increases or decreases depending on how much we produce or sell.",
+      "options": [
+        "Variable",
+        "Fixed",
+        "Total",
+        "Maintenance"
+      ],
+      "answer": "Variable",
+      "id": "57"
+    },
+    {
+      "question": "Preeti is renting a kitchen to run a Paratha Shop, The rent of the kitchen is ____ cost?",
+      "options": [
+        "Variable",
+        "Total",
+        "Fixed",
+        "Admin"
+      ],
+      "answer": "Fixed",
+      "id": "58"
+    },
+    {
+      "question": "______ is the money we invest in producing a product or service.",
+      "options": [
+        "Business revenue",
+        "Product Cost",
+        "Product Price",
+        "Business Pitch"
+      ],
+      "answer": "Product Cost",
+      "id": "59"
+    },
+    {
+      "question": "Mani is a painter and he buys new brushes and tins for painting. What type of cost it is?",
+      "options": [
+        "Total Cost",
+        "Fixed Cost",
+        "Variable Cost",
+        "Maintenance"
+      ],
+      "answer": "Fixed Cost",
+      "id": "60"
+    },
+    {
+      "question": "The word funding means ________.",
+      "options": [
+        "Money for shopping",
+        "Saving and Spending",
+        "Money to start a business",
+        "Bank account"
+      ],
+      "answer": "Money to start a business",
+      "id": "61"
+    },
+    {
+      "question": "A ______ is a new business, which later grows into a big company",
+      "options": [
+        "NSIC",
+        "Parlours",
+        "Hotels",
+        "Start Up"
+      ],
+      "answer": "Start Up",
+      "id": "62"
+    },
+    {
+      "question": "_____ supports entrepreneurs to get loans under several schemes in district level.",
+      "options": [
+        "National small industries corporation (NSIC)",
+        "District Industry Centres (DIC)",
+        "SIDO",
+        "SSLC"
+      ],
+      "answer": "District Industry Centres (DIC)",
+      "id": "63"
+    },
+    {
+      "question": "Prem wants to start a shop. He can apply for ____ loan to have benefits.",
+      "options": [
+        "Home",
+        "MUDRA",
+        "Education",
+        "Car"
+      ],
+      "answer": "MUDRA",
+      "id": "64"
+    },
+    {
+      "question": "Seema plans to open a hotel and has applied for a MUDRA Loan. What must she submit as part of her loan MUDRA loan application?",
+      "options": [
+        "Her resume",
+        "A business plan",
+        "Vacation plan",
+        "An essay"
+      ],
+      "answer": "A business plan",
+      "id": "65"
+    },
+    {
+      "question": "A product name that has been officially registered with the Trademark Registry of India is _____.",
+      "options": [
+        "Marked",
+        "Trademark",
+        "Approved",
+        "Token"
+      ],
+      "answer": "Trademark",
+      "id": "66"
+    },
+    {
+      "question": "Entrepreneurs learn from their success as well as their _______.",
+      "options": [
+        "Failures",
+        "Friends",
+        "Profit",
+        "Business Pitch"
+      ],
+      "answer": "Failures",
+      "id": "67"
+    },
+    {
+      "question": "The secret to growing your business is to choose the right _____ to support your growth",
+      "options": [
+        "Clothes",
+        "Family",
+        "Friends",
+        "Team"
+      ],
+      "answer": "Team",
+      "id": "68"
+    },
+    {
+      "question": "Wahid wants to register his product under a trademark. What is the benefit of getting a trademark for your product?",
+      "options": [
+        "He can sell it at higher rate",
+        "No one else can use the same product name",
+        "He will get a lot of success",
+        "He can take many loans and not repay"
+      ],
+      "answer": "No one else can use the same product name",
+      "id": "69"
+    },
+    {
+      "question": "Joy started a homemade pickle business. He has not been able to get profit in the first 2 months. What should he do?",
+      "options": [
+        "End his business",
+        "Borrow money",
+        "Find reasons for his failure & learn from them",
+        "Get angry"
+      ],
+      "answer": "Find reasons for his failure & learn from them",
+      "id": "70"
+    }
+  ],
+  "Career Development and Goal Setting": [
+    {
+      "question": "An occupation undertaken for a long period and with opportunities for progress is called",
+      "options": [
+        "Job",
+        "Career",
+        "Work",
+        "Hobby"
+      ],
+      "answer": "Career",
+      "id": "1"
+    },
+    {
+      "question": "Everything that we do outside work is ___.",
+      "options": [
+        "Personal life",
+        "Professional life",
+        "Tuition",
+        "Dislikes"
+      ],
+      "answer": "Personal life",
+      "id": "2"
+    },
+    {
+      "question": "Balance in _______ is important to have a healthy and happy life.",
+      "options": [
+        "Career demand",
+        "Job satisfaction",
+        "Work-life",
+        "Salary"
+      ],
+      "answer": "Work-life",
+      "id": "3"
+    },
+    {
+      "question": "Siddhu is planning to start his career. He should have ___.",
+      "options": [
+        "Education",
+        "Career plan",
+        "Resume",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "4"
+    },
+    {
+      "question": "Sarah is a teacher at a school for one year. After that, she becomes a trainer for new teachers and then a principal. What does this job progression show?",
+      "options": [
+        "Sarah\u2019s job",
+        "Sarah\u2019s hobby",
+        "Sarah\u2019s career",
+        "Sarah\u2019s education"
+      ],
+      "answer": "Sarah\u2019s career",
+      "id": "5"
+    },
+    {
+      "question": "Activities that one is good at and can do well are called _____.",
+      "options": [
+        "Abilities",
+        "Interests",
+        "Passion",
+        "Sports"
+      ],
+      "answer": "Abilities",
+      "id": "6"
+    },
+    {
+      "question": "Things that one loves to do are called ______.",
+      "options": [
+        "Abilities",
+        "Job",
+        "Interests",
+        "Work"
+      ],
+      "answer": "Interests",
+      "id": "7"
+    },
+    {
+      "question": "We should choose our career based on our _______.",
+      "options": [
+        "Disadvantages",
+        "Strengths",
+        "Weakness",
+        "Workplace"
+      ],
+      "answer": "Strengths",
+      "id": "8"
+    },
+    {
+      "question": "Nisha loves cooking and she is good at dancing. Her ability is _____.",
+      "options": [
+        "Cooking",
+        "Dancing",
+        "Painting",
+        "Singing"
+      ],
+      "answer": "Dancing",
+      "id": "9"
+    },
+    {
+      "question": "Jack is very good at MS Excel. He must apply for a job based on his ______.",
+      "options": [
+        "Interests",
+        "Abilities",
+        "Decision",
+        "Mood"
+      ],
+      "answer": "Abilities",
+      "id": "10"
+    },
+    {
+      "question": "A ____ path is a series of jobs to help you progress towards your goals.",
+      "options": [
+        "Career",
+        "Foot",
+        "Unsatisfying",
+        "Work"
+      ],
+      "answer": "Career",
+      "id": "11"
+    },
+    {
+      "question": "One must choose the career path based on the changing_________.",
+      "options": [
+        "Interests",
+        "Abilities",
+        "Cities",
+        "Market demands"
+      ],
+      "answer": "Market demands",
+      "id": "12"
+    },
+    {
+      "question": "How can creating career pathway posters help you plan your career?",
+      "options": [
+        "By teaching unrelated skills",
+        "By ignoring market demands",
+        "By providing clarity on your future goals",
+        "By limiting your career growth"
+      ],
+      "answer": "By providing clarity on your future goals",
+      "id": "13"
+    },
+    {
+      "question": "Suraj has finished his ITI course. He can create a career path that helps him progress towards his _____and _______.",
+      "options": [
+        "Cooking and painting",
+        "Goals and Objectives",
+        "Strengths and weakness",
+        "Singing and dancing"
+      ],
+      "answer": "Goals and Objectives",
+      "id": "14"
+    },
+    {
+      "question": "Prem has completed his fashion design course. Which of the following he must consider when choosing a career path?",
+      "options": [
+        "Demands",
+        "Trends",
+        "Ability",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "15"
+    },
+    {
+      "question": "What does a market scan help us do?",
+      "options": [
+        "Learn new hobbies",
+        "Get better at sports",
+        "Identify different career pathways",
+        "None of these"
+      ],
+      "answer": "Identify different career pathways",
+      "id": "16"
+    },
+    {
+      "question": "Which is NOT a proper way to collect data about a career?",
+      "options": [
+        "Listening to gossips",
+        "Career magazines",
+        "Career guidance agencies",
+        "News papers"
+      ],
+      "answer": "Listening to gossips",
+      "id": "17"
+    },
+    {
+      "question": "What can be the source of information for a market scan?",
+      "options": [
+        "Internet",
+        "Industry visits",
+        "Alumni",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "18"
+    },
+    {
+      "question": "Latha is planning to join a beauty salon. But she is not very sure about this profession. Who should she speak with to get a better understanding of the profession?",
+      "options": [
+        "Professionals",
+        "Parents",
+        "Classmates",
+        "Strangers"
+      ],
+      "answer": "Professionals",
+      "id": "19"
+    },
+    {
+      "question": "Raghu\u2019s father had a typewriting press/shop. Now, he is replacing typewriters with________.",
+      "options": [
+        "Phones",
+        "Computers",
+        "TV",
+        "Radio"
+      ],
+      "answer": "Computers",
+      "id": "20"
+    },
+    {
+      "question": "A ______ is something you really want in life. You plan and take the right actions to make it happen.",
+      "options": [
+        "Dream",
+        "Desire",
+        "Goal",
+        "None of these"
+      ],
+      "answer": "Goal",
+      "id": "21"
+    },
+    {
+      "question": "The goal that someone plans to achieve within a year is called a________.",
+      "options": [
+        "Long term goal",
+        "Steps",
+        "Milestone",
+        "Desire"
+      ],
+      "answer": "Milestone",
+      "id": "22"
+    },
+    {
+      "question": "SMART stands for ________.",
+      "options": [
+        "Specific, Measurable, Achievable, Relevant, and Time-Bound.",
+        "Specific, Measurable, Archive, Relevant, and Time-Bound.",
+        "Specific, Measurable, Achievable, Relevant, and Trim",
+        "Specific, Memorable, Achievable, Relevant, and Time-Bound."
+      ],
+      "answer": "Specific, Measurable, Achievable, Relevant, and Time-Bound.",
+      "id": "23"
+    },
+    {
+      "question": "Nithya aims to achieve a score of 75% in her 10th- grade exams by the end of the academic year. This is a ________goal.",
+      "options": [
+        "SMART",
+        "STAR",
+        "Great",
+        "Life-time"
+      ],
+      "answer": "SMART",
+      "id": "24"
+    },
+    {
+      "question": "Ramesh wanted to collect 50 stamps in 6 months. So, he started by collecting two stamps every week. This is a ______goal.",
+      "options": [
+        "Short-term",
+        "Life-time",
+        "Long-term",
+        "Unrealistic"
+      ],
+      "answer": "Short-term",
+      "id": "25"
+    }
+  ],
+  "Customer Service": [
+    {
+      "question": "A person who buys a product is a _____.",
+      "options": [
+        "Student",
+        "Customer",
+        "Seller",
+        "Servicer"
+      ],
+      "answer": "Customer",
+      "id": "1"
+    },
+    {
+      "question": "What is the service given to the customer before, during or after a purchase called?",
+      "options": [
+        "Customer service",
+        "Auto Service",
+        "Management Service",
+        "None of these"
+      ],
+      "answer": "Customer service",
+      "id": "2"
+    },
+    {
+      "question": "What does the growth of a business depend on?",
+      "options": [
+        "How you talk to cusomers",
+        "How you take feedback from customers",
+        "How you help customers",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "3"
+    },
+    {
+      "question": "Harish has taken up his family business of ironing clothes. His customers are not happy with the service. What should Harish do to make his business better?",
+      "options": [
+        "Increase the cost",
+        "Give better customer service",
+        "Stop the business",
+        "Change the business"
+      ],
+      "answer": "Give better customer service",
+      "id": "4"
+    },
+    {
+      "question": "Pushpa and Kavya have opened a shop for baby clothes in Bangalore and Chennai. Bangalore outlet is gaining more popularity and profit? What might be the reason?",
+      "options": [
+        "Good customer relationship in Bangalore shop",
+        "Chennai is very hot",
+        "There are more babies in Bangalore",
+        "No reasons"
+      ],
+      "answer": "Good customer relationship in Bangalore shop",
+      "id": "5"
+    },
+    {
+      "question": "A dissatisfied customer means ________.",
+      "options": [
+        "Happy customer",
+        "Beautiful customer",
+        "Unhappy customer",
+        "Old customer"
+      ],
+      "answer": "Unhappy customer",
+      "id": "6"
+    },
+    {
+      "question": "A customer who buys a product for the first time is a____.",
+      "options": [
+        "Bargaining customer",
+        "Vendor",
+        "New customer",
+        "Researching customer"
+      ],
+      "answer": "New customer",
+      "id": "7"
+    },
+    {
+      "question": "Loyal Customers are those who ________.",
+      "options": [
+        "Keep coming back to the same shop",
+        "Hate the shop",
+        "Buy a product/a service for the first time",
+        "Ask for more discount"
+      ],
+      "answer": "Keep coming back to the same shop",
+      "id": "8"
+    },
+    {
+      "question": "Ravi has a customer who bargains a lot. The customer wants to buy a dress that costs 500 rupees but only wants to pay 300 rupees. What should Ravi do?",
+      "options": [
+        "Tell the customer to go away",
+        "Give the dress for 300 rupees",
+        "Talk to the customer and sell the dress for 400 rupees",
+        "Do nothing"
+      ],
+      "answer": "Talk to the customer and sell the dress for 400 rupees",
+      "id": "9"
+    },
+    {
+      "question": "Meena sells milk packets. One day, she got a dissatisfied (unhappy) customer because the milk was spoilt. What should Meena NOT do now?",
+      "options": [
+        "Say sorry to the customer",
+        "Quickly give another packet of milk",
+        "Make sure the customer is happy",
+        "Get angry with the customer"
+      ],
+      "answer": "Get angry with the customer",
+      "id": "10"
+    },
+    {
+      "question": "Probing for customer needs means ________.",
+      "options": [
+        "To celebrate with customers",
+        "Get angry with the customer",
+        "To ask customers what they need",
+        "To give discount"
+      ],
+      "answer": "To ask customers what they need",
+      "id": "11"
+    },
+    {
+      "question": "Caring for customers is key to growing your business. What does this mean?",
+      "options": [
+        "Care for what customers want",
+        "Care for customers when they are sick",
+        "Care for customers at their home",
+        "Care for keys"
+      ],
+      "answer": "Care for what customers want",
+      "id": "12"
+    },
+    {
+      "question": "___ is a way to understand the customer\u2019s needs and emotions by asking questions.",
+      "options": [
+        "Apologising",
+        "Probing",
+        "Explaining",
+        "Assuming"
+      ],
+      "answer": "Probing",
+      "id": "13"
+    },
+    {
+      "question": "Tapsi is at a clothes shop to buy a gift for her friend. She can't decide which clothes to pick. How can the salesperson help Tapsi?",
+      "options": [
+        "By asking open questions",
+        "By asking probing questions",
+        "By asking closed questions",
+        "By asking open, probing and closed questions"
+      ],
+      "answer": "By asking open, probing and closed questions",
+      "id": "14"
+    },
+    {
+      "question": "Sudha buys vegetables from Karthik\u2019s shop. She is happy with the quality and prices. She can help Karthik\u2019s business improve by _____.",
+      "options": [
+        "Sharing good words about the shop",
+        "Watching the shop",
+        "Hating Karthik",
+        "Buying vegetables from other shop"
+      ],
+      "answer": "Sharing good words about the shop",
+      "id": "15"
+    },
+    {
+      "question": "Why is it important to use selling techniques?",
+      "options": [
+        "To look confident",
+        "To make friends with customers",
+        "To have fun",
+        "To connect with customers & make sure they make a purchase"
+      ],
+      "answer": "To connect with customers & make sure they make a purchase",
+      "id": "16"
+    },
+    {
+      "question": "_________is a sales technique that aims to market additional products to the customers.",
+      "options": [
+        "Probing",
+        "Cross selling",
+        "FAB",
+        "Lying"
+      ],
+      "answer": "Cross selling",
+      "id": "17"
+    },
+    {
+      "question": "FAB means ____",
+      "options": [
+        "Features, Advantages, Benefits",
+        "Features, Advices, Benefits",
+        "Five, Advertisements , Boards",
+        "Festival, Adventure, Behalf"
+      ],
+      "answer": "Features, Advantages, Benefits",
+      "id": "18"
+    },
+    {
+      "question": "Swati needs to sell a laptop. She can use the _________ technique to sell it.",
+      "options": [
+        "FAB",
+        "TAB",
+        "Cross selling",
+        "Probing"
+      ],
+      "answer": "FAB",
+      "id": "19"
+    },
+    {
+      "question": "Smitha needs to sell a mobile phone. She is writing down the advantages and benefits of the different phones. She is writing a ____.",
+      "options": [
+        "Financial statement",
+        "Service statement",
+        "FAB statement",
+        "Bill"
+      ],
+      "answer": "FAB statement",
+      "id": "20"
+    },
+    {
+      "question": "Customers sharing their experience and opinion about a product is called _____.",
+      "options": [
+        "Customer Support",
+        "Customer Feedback",
+        "Customer Probing",
+        "Customer ID"
+      ],
+      "answer": "Customer Feedback",
+      "id": "21"
+    },
+    {
+      "question": "Closing sales technique is an essential skill for a _____.",
+      "options": [
+        "Sales person",
+        "Child",
+        "Manager",
+        "Clerk"
+      ],
+      "answer": "Sales person",
+      "id": "22"
+    },
+    {
+      "question": "Now or never close, summary close and question close are 3 important _____.",
+      "options": [
+        "Opening techniques",
+        "Probing techniques",
+        "Closing Techniques",
+        "Discount"
+      ],
+      "answer": "Closing Techniques",
+      "id": "23"
+    },
+    {
+      "question": "A hotel asked its customer\u2019s to fill customer satisfaction survey. What are they trying to do?",
+      "options": [
+        "Sell more hotels",
+        "Collect customer feedback",
+        "Advertise their hotel",
+        "Promote their hotel"
+      ],
+      "answer": "Collect customer feedback",
+      "id": "24"
+    },
+    {
+      "question": "Sales person tells the customer \u201cthe offer exists today only\u201d. This sales technique is called __________.",
+      "options": [
+        "Now or never close",
+        "Summary close",
+        "Question close",
+        "Opening technique"
+      ],
+      "answer": "Now or never close",
+      "id": "25"
+    }
+  ],
+  "Getting Ready for Apprenticeship & Jobs": [
+    {
+      "question": "Which of these is a bad practice in a workplace?",
+      "options": [
+        "Open and honest communication",
+        "Opportunity to grow in the company",
+        "Good work- life balance",
+        "No trust between co- workers"
+      ],
+      "answer": "No trust between co- workers",
+      "id": "1"
+    },
+    {
+      "question": "Good, professional relationship with co-workers can give the feeling of __________.",
+      "options": [
+        "Job satisfaction",
+        "Fear",
+        "Confusion",
+        "Negative energy"
+      ],
+      "answer": "Job satisfaction",
+      "id": "2"
+    },
+    {
+      "question": "How can we save resources on our planet?",
+      "options": [
+        "Use less electricity",
+        "Create less pollution",
+        "Use less plastic",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "3"
+    },
+    {
+      "question": "Ganesh greets his co-workers every day. He is trying to maintain ______ at work.",
+      "options": [
+        "his authority",
+        "good relationships",
+        "frustration",
+        "power"
+      ],
+      "answer": "good relationships",
+      "id": "4"
+    },
+    {
+      "question": "Kim has a habit of switching off her desktop and PC when not in use. This helps to _______ energy at the workplace.",
+      "options": [
+        "Spend",
+        "Waste",
+        "Conserve (Save)",
+        "Practice"
+      ],
+      "answer": "Conserve (Save)",
+      "id": "5"
+    },
+    {
+      "question": "____ is the process of taking steps to look neat and presentable.",
+      "options": [
+        "Grooming",
+        "Brooming",
+        "Caring",
+        "Uniform"
+      ],
+      "answer": "Grooming",
+      "id": "6"
+    },
+    {
+      "question": "Why is personal grooming important?",
+      "options": [
+        "It creates a positive first impression.",
+        "It helps you feel confident.",
+        "It shows self- discipline.",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "7"
+    },
+    {
+      "question": "During an industrial visit or an interview we have to dress ____.",
+      "options": [
+        "formally",
+        "dirty",
+        "in pajamas",
+        "casually"
+      ],
+      "answer": "formally",
+      "id": "8"
+    },
+    {
+      "question": "What happens If we do not maintain good personal hygiene (cleanliness)?",
+      "options": [
+        "We become more popular.",
+        "We feel happier.",
+        "We can get sick easily.",
+        "Our health improves."
+      ],
+      "answer": "We can get sick easily.",
+      "id": "9"
+    },
+    {
+      "question": "Shreyas is going for an interview. He has picked a shirt from the cupboard. He must _______ before wearing it.",
+      "options": [
+        "soak",
+        "color",
+        "tear",
+        "iron"
+      ],
+      "answer": "iron",
+      "id": "10"
+    }
+  ],
+  "Getting Ready for Apprenticeships & Jobs": [
+    {
+      "question": "______ can be a physical, mental, or emotional reaction, that makes us feel worried.",
+      "options": [
+        "Stress",
+        "Food",
+        "Job",
+        "Action"
+      ],
+      "answer": "Stress",
+      "id": "11"
+    },
+    {
+      "question": "What kind of stress can lead to lifelong physical and mental health issues?",
+      "options": [
+        "Short-term",
+        "Long-term",
+        "Mid-term",
+        "Good stress"
+      ],
+      "answer": "Long-term",
+      "id": "12"
+    },
+    {
+      "question": "______ stress can make us feel excited and motivated.",
+      "options": [
+        "Bad",
+        "Good",
+        "Short-term",
+        "Long-term"
+      ],
+      "answer": "Good",
+      "id": "13"
+    },
+    {
+      "question": "Tom feels very tensed and scared. He is unable to concentrate before his exams. He is sweating. What kind of stress is this?",
+      "options": [
+        "Good",
+        "Small",
+        "Bad",
+        "Never"
+      ],
+      "answer": "Bad",
+      "id": "14"
+    },
+    {
+      "question": "Arjun focuses only on his work and does not get involved in workplace politics. He also makes sure he does not work after office-hours. He makes time for his family. What is he doing?",
+      "options": [
+        "He is working a lot.",
+        "He is not working at all.",
+        "He is maintaining good work-life balance.",
+        "He is enjoying workplace politics."
+      ],
+      "answer": "He is maintaining good work-life balance.",
+      "id": "15"
+    },
+    {
+      "question": "A _____ is the first document an employer will look at when reviewing the job application.",
+      "options": [
+        "Certificate",
+        "Resume",
+        "Ticket",
+        "Bank statement"
+      ],
+      "answer": "Resume",
+      "id": "16"
+    },
+    {
+      "question": "What are the key elements of a resume?",
+      "options": [
+        "Personal information",
+        "Career objective",
+        "Education",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "17"
+    },
+    {
+      "question": "Which of the following is NOT a soft skill?",
+      "options": [
+        "Time Management",
+        "Communication Skill",
+        "Carpentry",
+        "Goal Setting"
+      ],
+      "answer": "Carpentry",
+      "id": "18"
+    },
+    {
+      "question": "Vimal wanted to update his resume. Which of the following he should NOT include in his resume?",
+      "options": [
+        "Salary expectations",
+        "Name",
+        "Qualification",
+        "Date of birth"
+      ],
+      "answer": "Salary expectations",
+      "id": "19"
+    },
+    {
+      "question": "Harry has knowledge of circuits and wiring. He can apply as a/an ________ in a company.",
+      "options": [
+        "Beautician",
+        "Plumber",
+        "Fitter",
+        "Electrician"
+      ],
+      "answer": "Electrician",
+      "id": "20"
+    },
+    {
+      "question": "______ is the formal process of checking if the candidate is suitable for the job.",
+      "options": [
+        "Interview",
+        "Onboarding",
+        "Training",
+        "Reading"
+      ],
+      "answer": "Interview",
+      "id": "21"
+    },
+    {
+      "question": "Which of the following is NOT an interview skill?",
+      "options": [
+        "Clear communication",
+        "Painting",
+        "Active listening",
+        "Showing confidence"
+      ],
+      "answer": "Painting",
+      "id": "22"
+    },
+    {
+      "question": "Which of the following are good manners in an interview?",
+      "options": [
+        "Not making eye contact",
+        "Speaking too fast",
+        "Being on time",
+        "Getting irritated"
+      ],
+      "answer": "Being on time",
+      "id": "23"
+    },
+    {
+      "question": "The interviewer asked Rahul to wait for a few days. What can Rahul do after few days?",
+      "options": [
+        "Follow up with the employer on phone call or email",
+        "Give up his hope",
+        "Never call",
+        "Meet his friends"
+      ],
+      "answer": "Follow up with the employer on phone call or email",
+      "id": "24"
+    },
+    {
+      "question": "Seema is attending an interview. What is she is supposed to carry for the interview?",
+      "options": [
+        "Resume",
+        "Certificates",
+        "ID cards",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "25"
+    },
+    {
+      "question": "Which of the following will the interviewer expect from the candidates?",
+      "options": [
+        "Good soft skills",
+        "Cooking skills",
+        "Singing skills",
+        "Painting skills"
+      ],
+      "answer": "Good soft skills",
+      "id": "26"
+    },
+    {
+      "question": "Which of the following should be avoided while facing an interview?",
+      "options": [
+        "Use mobile",
+        "Speaking",
+        "Listening",
+        "Answering questions"
+      ],
+      "answer": "Use mobile",
+      "id": "27"
+    },
+    {
+      "question": "The job interview is a discussion between ____ and _____for mutual benefit.",
+      "options": [
+        "teacher and student",
+        "employee and employer",
+        "brother and sister",
+        "friends and relatives"
+      ],
+      "answer": "employee and employer",
+      "id": "28"
+    },
+    {
+      "question": "Nagma has an important job interview tomorrow. What should she do to prepare for her interview?",
+      "options": [
+        "Arrive late to show she is busy",
+        "Wear casual clothes to feel comfortable",
+        "Talk only about her personal life",
+        "Research the company & prepare questions to ask"
+      ],
+      "answer": "Research the company & prepare questions to ask",
+      "id": "29"
+    },
+    {
+      "question": "Rita did not enjoy her work in her previous company. She is going for interview to another company. What should Rita NOT do?",
+      "options": [
+        "Talk badly about her previous company",
+        "Communciate clearly",
+        "Take her resume",
+        "Be on time for the interview"
+      ],
+      "answer": "Talk badly about her previous company",
+      "id": "30"
+    },
+    {
+      "question": "A mock interview is a____ job interview.",
+      "options": [
+        "fun",
+        "practice",
+        "virtual",
+        "difficult"
+      ],
+      "answer": "practice",
+      "id": "31"
+    },
+    {
+      "question": "The main purpose of mock interviews is to _______.",
+      "options": [
+        "give marks",
+        "judge people",
+        "give feedback",
+        "waste time"
+      ],
+      "answer": "give feedback",
+      "id": "32"
+    },
+    {
+      "question": "Which of the following is an advantage of a mock interview?",
+      "options": [
+        "Learning how to speak",
+        "Learning how to dress",
+        "Using proper body language",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "33"
+    },
+    {
+      "question": "Geetha wants to take a mock interview before attending the real one. Whom do you think she must choose as an interviewer?",
+      "options": [
+        "A stranger",
+        "Her senior",
+        "Her younger sister",
+        "Shopkeeper"
+      ],
+      "answer": "Her senior",
+      "id": "34"
+    },
+    {
+      "question": "Keith recorded his interview as a video to understand his performance. This is also one of the methods to receive _______.",
+      "options": [
+        "feedback",
+        "wishes",
+        "compliments",
+        "Greetings"
+      ],
+      "answer": "feedback",
+      "id": "35"
+    },
+    {
+      "question": "How can a professional network support your career growth?",
+      "options": [
+        "By offering free travel discounts",
+        "By sharing knowledge and professional guidance",
+        "By organizing social parties",
+        "By giving financial loans"
+      ],
+      "answer": "By sharing knowledge and professional guidance",
+      "id": "36"
+    },
+    {
+      "question": "Who can be in your professional network?",
+      "options": [
+        "College professors",
+        "Classmates",
+        "Co-workers",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "37"
+    },
+    {
+      "question": "Where can you build a professional network?",
+      "options": [
+        "Social events",
+        "Current job",
+        "Alumni clubs",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "38"
+    },
+    {
+      "question": "Rekha takes care of all water-pipe fittings in her company. Which professional network can she be a part of?",
+      "options": [
+        "Plumbers",
+        "Carpenters",
+        "Tailors",
+        "Beauticians"
+      ],
+      "answer": "Plumbers",
+      "id": "39"
+    },
+    {
+      "question": "Saif\u2019s college professor guided him to choose the right career path. He must show ____to his guide.",
+      "options": [
+        "Gratitude",
+        "Anger",
+        "Fear",
+        "Arrogance"
+      ],
+      "answer": "Gratitude",
+      "id": "40"
+    },
+    {
+      "question": "The lack of success in achieving a goal or completing a task is called _____.",
+      "options": [
+        "Failure",
+        "Success",
+        "Boring",
+        "Satisfaction"
+      ],
+      "answer": "Failure",
+      "id": "41"
+    },
+    {
+      "question": "Something that is not accepted by someone is called _____.",
+      "options": [
+        "Acceptance",
+        "Rejection",
+        "Failure",
+        "Success"
+      ],
+      "answer": "Rejection",
+      "id": "42"
+    },
+    {
+      "question": "One needs to handle failure and rejection with a ______attitude.",
+      "options": [
+        "Negative",
+        "Helpful",
+        "Positive",
+        "Rude"
+      ],
+      "answer": "Positive",
+      "id": "43"
+    },
+    {
+      "question": "Sundar\u2019s hotel business was under heavy loss. He had to close business. How can he learn from failure and achieve success?",
+      "options": [
+        "Think about what happened in a systematic way",
+        "Stay positive to learn from failure",
+        "Don\u2019t give-up and try again",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "44"
+    },
+    {
+      "question": "Sheela prepared for an interview for a week but got nervous and was rejected. What should she do to improve?",
+      "options": [
+        "Keep thinking about her failure",
+        "Do not lose focus from her goals",
+        "Avoid future interviews",
+        "Ignore feedback from the interview"
+      ],
+      "answer": "Do not lose focus from her goals",
+      "id": "45"
+    },
+    {
+      "question": "A formal interaction between students and a guest speaker is known as ________.",
+      "options": [
+        "Group meeting",
+        "Guest lecture",
+        "A casual chat",
+        "time pass"
+      ],
+      "answer": "Guest lecture",
+      "id": "56"
+    },
+    {
+      "question": "Guest lectures act as a platform to talk to alumni about their _____",
+      "options": [
+        "experience",
+        "hobbies",
+        "family life",
+        "travel plans"
+      ],
+      "answer": "experience",
+      "id": "57"
+    },
+    {
+      "question": "Which of these is NOT a question to ask alumni during guest lecture?",
+      "options": [
+        "How did you prepare yourself for a job/workplace?",
+        "What are your travel plans?",
+        "How did you convince your parents/family to work?",
+        "Did you relocate for your job? What were the main challenges?"
+      ],
+      "answer": "What are your travel plans?",
+      "id": "58"
+    },
+    {
+      "question": "What is the most important thing to focus in a Guest Lecture?",
+      "options": [
+        "YouTube Reels",
+        "Expectations of the workplace",
+        "Shopping centers near workplace",
+        "Holidays"
+      ],
+      "answer": "Expectations of the workplace",
+      "id": "59"
+    },
+    {
+      "question": "Farida met an ex-student of her institute. He/she can be called as an__________.",
+      "options": [
+        "Alumni",
+        "Interviewer",
+        "Professor",
+        "Referee"
+      ],
+      "answer": "Alumni",
+      "id": "60"
+    },
+    {
+      "question": "_________ are jobs that you find by being part of a particular online platform or an app.",
+      "options": [
+        "Platform- based jobs",
+        "Life time jobs",
+        "Railway platform jobs",
+        "None of these"
+      ],
+      "answer": "Platform- based jobs",
+      "id": "61"
+    },
+    {
+      "question": "Which of these is NOT a platform for finding platform-based jobs?",
+      "options": [
+        "Urban Company",
+        "Uber",
+        "Swiggy",
+        "Government office"
+      ],
+      "answer": "Government office",
+      "id": "62"
+    },
+    {
+      "question": "Which of these services can you find on platform-based job portals?",
+      "options": [
+        "Home & Appliance Repair services",
+        "Beauty salon services",
+        "Cleaning services",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "id": "63"
+    },
+    {
+      "question": "Shilpa wanted to get her house cleaned before Diwali. On which portal can she book this service?",
+      "options": [
+        "Helpr",
+        "Swiggy",
+        "Zomato",
+        "Ola"
+      ],
+      "answer": "Helpr",
+      "id": "64"
+    },
+    {
+      "question": "Chandu is sick and unable to cook food. From which platform can he order food?",
+      "options": [
+        "Flipkart (product selling app)",
+        "Urban Company (home cleaning & repair services)",
+        "Swiggy (food delivery app)",
+        "Myntra (Shopping app)"
+      ],
+      "answer": "Swiggy (food delivery app)",
+      "id": "65"
+    },
+    {
+      "question": "Job search engines are also called ______.",
+      "options": [
+        "Shopping platforms",
+        "Job portals",
+        "Resume Builder",
+        "Play store"
+      ],
+      "answer": "Job portals",
+      "id": "66"
+    },
+    {
+      "question": "Which of the following is a specialized app or portal designed to find jobs?",
+      "options": [
+        "Zomato",
+        "Myntra",
+        "Amazon",
+        "Naukri"
+      ],
+      "answer": "Naukri",
+      "id": "67"
+    },
+    {
+      "question": "Creating profiles on multiple portals always helps in______ reach.",
+      "options": [
+        "Low",
+        "Wider/Vast",
+        "Limited",
+        "Small"
+      ],
+      "answer": "Wider/Vast",
+      "id": "68"
+    },
+    {
+      "question": "Ram just finished his training course. Which portal can he use to look for jobs as a fresher?",
+      "options": [
+        "Freshersworld",
+        "Urban Company",
+        "Swiggy",
+        "Myntra"
+      ],
+      "answer": "Freshersworld",
+      "id": "69"
+    },
+    {
+      "question": "A company is asking for money for applying for a job from Ruhi. She realized that it must be a _____ job.",
+      "options": [
+        "good",
+        "real",
+        "fake",
+        "great"
+      ],
+      "answer": "fake",
+      "id": "70"
+    },
+    {
+      "question": "What is the full form of NAPS?",
+      "options": [
+        "National Appraisal Promotion Scheme",
+        "National Apprenticeship Promotion Scheme",
+        "National Appreciation Pro Scheme",
+        "National Apparent Provident Scheme"
+      ],
+      "answer": "National Apprenticeship Promotion Scheme",
+      "id": "71"
+    },
+    {
+      "question": "NAPS is a scheme by the Government of India to provide apprenticeship training through the ____.",
+      "options": [
+        "Employers",
+        "Teachers",
+        "Trainers",
+        "Professors"
+      ],
+      "answer": "Employers",
+      "id": "72"
+    },
+    {
+      "question": "NAPS provides apprenticeship training opportunities for a student who has completed ___ years.",
+      "options": [
+        "18",
+        "21",
+        "14",
+        "10"
+      ],
+      "answer": "14",
+      "id": "73"
+    },
+    {
+      "question": "Vibha wants to register on the NAPS portal. She should have ____ to register.",
+      "options": [
+        "Diploma",
+        "ITI certificate",
+        "Degree",
+        "Masters degree"
+      ],
+      "answer": "ITI certificate",
+      "id": "74"
+    },
+    {
+      "question": "Arunima has completed an apprenticeship training on NAPS. She will be getting a______on completion.",
+      "options": [
+        "Certificate",
+        "Credit Card",
+        "Clothes",
+        "Scholarship"
+      ],
+      "answer": "Certificate",
+      "id": "75"
+    }
+  ]
+}
