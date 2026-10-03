@@ -1,0 +1,62 @@
+{
+  "Introduction to Employability Skills": {
+    "name_en": "Introduction to Employability Skills",
+    "name_mr": "रोजगार कौशल्यांची ओळख (Introduction to Employability Skills)",
+    "count": 15
+  },
+  "Constitutional Values - Citizenship": {
+    "name_en": "Constitutional Values - Citizenship",
+    "name_mr": "घटनात्मक मूल्ये - नागरिकत्व",
+    "count": 15
+  },
+  "Becoming a Professional in the 21st Century": {
+    "name_en": "Becoming a Professional in the 21st Century",
+    "name_mr": "२१ व्या शतकात व्यावसायिक बनणे",
+    "count": 30
+  },
+  "Basic English Skills": {
+    "name_en": "Basic English Skills",
+    "name_mr": "मूलभूत इंग्रजी कौशल्ये",
+    "count": 100
+  },
+  "Communication Skills": {
+    "name_en": "Communication Skills",
+    "name_mr": "संभाषण कौशल्ये (Communication Skills)",
+    "count": 50
+  },
+  "Essential Digital Skills": {
+    "name_en": "Essential Digital Skills",
+    "name_mr": "आवश्यक डिजिटल कौशल्ये",
+    "count": 100
+  },
+  "Financial and Legal Literacy": {
+    "name_en": "Financial and Legal Literacy",
+    "name_mr": "आर्थिक आणि कायदेशीर साक्षरता",
+    "count": 45
+  },
+  "Diversity and Inclusion": {
+    "name_en": "Diversity and Inclusion",
+    "name_mr": "विविधता आणि समावेशन",
+    "count": 30
+  },
+  "Entrepreneurship": {
+    "name_en": "Entrepreneurship",
+    "name_mr": "उद्योजकता (Entrepreneurship)",
+    "count": 70
+  },
+  "Career Development and Goal Setting": {
+    "name_en": "Career Development and Goal Setting",
+    "name_mr": "करिअर विकास आणि ध्येय निश्चिती",
+    "count": 25
+  },
+  "Customer Service": {
+    "name_en": "Customer Service",
+    "name_mr": "ग्राहक सेवा (Customer Service)",
+    "count": 25
+  },
+  "Getting Ready for Apprenticeships & Jobs": {
+    "name_en": "Getting Ready for Apprenticeships & Jobs",
+    "name_mr": "प्रशिक्षणार्थी (Apprenticeship) आणि नोकरीसाठी पूर्वतयारी",
+    "count": 75
+  }
+}

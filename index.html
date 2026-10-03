@@ -1,12 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="mr">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online MCQ - Employability Skills</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="format-detection" content="telephone=no">
+    <title>Online MCQ - Employability Skills (मराठी & English)</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="apple-touch-icon" href="icon-192.png">
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700&family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="html2pdf.bundle.min.js"></script>
 </head>
 
 <body>
@@ -15,28 +26,158 @@
 
     <header>
         <div class="logo">Online MCQ</div>
-        <p class="subtitle">Employability Skills - 1st Year</p>
+        <p class="subtitle">Employability Skills - 1st Year | रोजगार कौशल्ये - प्रथम वर्ष</p>
+        
+        <!-- Language Switcher Bar -->
+        <div class="lang-selector-container">
+            <span class="lang-label">भाषा निवडा / Display Language:</span>
+            <div class="lang-pill-group">
+                <button class="lang-pill active" data-lang="both" onclick="setLanguage('both')">🌐 दोन्ही (Bilingual)</button>
+                <button class="lang-pill" data-lang="mr" onclick="setLanguage('mr')">🇮🇳 मराठी</button>
+                <button class="lang-pill" data-lang="en" onclick="setLanguage('en')">🇬🇧 English</button>
+            </div>
+        </div>
+
+        <!-- Quick PWA Install Button in Header -->
+        <button id="pwa-header-install-btn" class="pwa-install-pill-btn hidden" onclick="openPwaInstallPrompt()">
+            <span>📲</span> ॲप इन्स्टॉल करा (Install App)
+        </button>
     </header>
 
     <main class="container">
         <section id="module-selection" class="animate-enter">
-            <h1>Select a Module</h1>
+            <div class="section-heading">
+                <h1 id="page-title">मॉड्यूल निवडा / Select a Module</h1>
+                <p class="section-sub">एकूण ५८० प्रश्नसंच (All 580 Questions Bank) — निमी व डीजीटी अभ्यासक्रमानुसार</p>
+            </div>
             <div id="module-grid" class="grid-layout">
                 <!-- Modules will be injected here by JS -->
-                <div class="loading-spinner">Loading Modules...</div>
+                <div class="loading-spinner">मॉड्यूल लोड होत आहेत... Loading Modules...</div>
             </div>
         </section>
     </main>
 
+    <!-- Attractive Trainee Details Modal -->
+    <div id="trainee-modal-overlay" class="modal-overlay hidden">
+        <div class="modal-card animate-enter">
+            <button class="modal-close-btn" onclick="closeTraineeModal()" aria-label="Close modal">&times;</button>
+            <div class="modal-header">
+                <div class="modal-icon">👨‍🎓</div>
+                <h2>प्रशिक्षणार्थी माहिती / Trainee Details</h2>
+                <p id="modal-test-info" class="modal-test-info">निवडलेले मॉड्यूल</p>
+            </div>
+            
+            <form id="trainee-form" onsubmit="handleTraineeSubmit(event)" autocomplete="off">
+                <div class="form-group">
+                    <label for="trainee-name">
+                        <span class="label-mr">प्रशिक्षणार्थीचे पूर्ण नाव</span>
+                        <span class="label-en">Trainee Full Name *</span>
+                    </label>
+                    <div class="input-wrapper">
+                        <span class="input-icon">👤</span>
+                        <input type="text" id="trainee-name" placeholder="ex. - Avinash Shesharao Dongre उदा. - अविनाश शेषराव डोंगरे " required autocomplete="off">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="trainee-trade">
+                        <span class="label-mr">व्यवसाय / ट्रेड</span>
+                        <span class="label-en">Trade *</span>
+                    </label>
+                    <div class="input-wrapper">
+                        <span class="input-icon">⚙️</span>
+                        <input type="text" id="trainee-trade" placeholder="उदा. COPA / Electrician / Fitter / Welder" required autocomplete="off">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="trainee-iti">
+                        <span class="label-mr">आयटीआयचे नाव (संस्था)</span>
+                        <span class="label-en">ITI Name *</span>
+                    </label>
+                    <div class="input-wrapper">
+                        <span class="input-icon">🏛️</span>
+                        <input type="text" id="trainee-iti" placeholder="उदा. शासकीय आयटीआय पुणे / Govt. ITI Pune" required autocomplete="off">
+                    </div>
+                </div>
+
+                <div class="modal-actions">
+                    <button type="button" class="btn btn-secondary" onclick="closeTraineeModal()">रद्द करा (Cancel)</button>
+                    <button type="submit" class="btn btn-primary">चाचणी सुरू करा (Start Test) ➔</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- PWA Install Prompt Modal -->
+    <div id="pwa-modal-overlay" class="modal-overlay hidden">
+        <div class="modal-card pwa-install-card animate-enter">
+            <button class="modal-close-btn" onclick="closePwaModal()" aria-label="Close modal">&times;</button>
+            <div class="pwa-header">
+                <div class="pwa-app-icon-wrapper">
+                    <img src="icon-192.png" alt="Online MCQ App Icon" class="pwa-app-icon">
+                    <span class="pwa-badge-pulse"></span>
+                </div>
+                <h2>📲 ॲप इन्स्टॉल करा / Install App</h2>
+                <p class="pwa-desc">Online MCQ - Employability Skills</p>
+            </div>
+            
+            <div class="pwa-features-list">
+                <div class="pwa-feature-item">
+                    <span class="pwa-feat-icon">⚡</span>
+                    <div>
+                        <div class="pwa-feat-title">जलद व इंटरनेटशिवाय (Works Offline)</div>
+                        <div class="pwa-feat-sub">एकदा इन्स्टॉल केल्यानंतर इंटरनेट नसतानाही अभ्यास करा.</div>
+                    </div>
+                </div>
+                <div class="pwa-feature-item">
+                    <span class="pwa-feat-icon">📱</span>
+                    <div>
+                        <div class="pwa-feat-title">होम स्क्रीनवर ॲप आयकॉन (Home Screen App)</div>
+                        <div class="pwa-feat-sub">मोबाईल किंवा कॉम्प्युटरवर थेट एका क्लिकवर सुरू करा.</div>
+                    </div>
+                </div>
+                <div class="pwa-feature-item">
+                    <span class="pwa-feat-icon">🎯</span>
+                    <div>
+                        <div class="pwa-feat-title">४५ मिनिटे परीक्षा व PDF निकाल</div>
+                        <div class="pwa-feat-sub">सर्व ५८० मराठी व इंग्रजी प्रश्नसंच आणि लगेच निकाल पत्रक.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- iOS Safari Specific Instructions -->
+            <div id="pwa-ios-instructions" class="pwa-ios-box hidden">
+                <p><strong>📱 iPhone / iPad वर कसे इन्स्टॉल करावे:</strong></p>
+                <ol>
+                    <li>ब्राउझरच्या तळाशी असलेल्या शेअर बटनावर <strong>'Share 📤'</strong> टॅप करा.</li>
+                    <li>खाली स्क्रोल करून <strong>'Add to Home Screen ➕'</strong> निवडा.</li>
+                </ol>
+            </div>
+
+            <div class="pwa-actions">
+                <button id="pwa-confirm-install-btn" class="btn btn-download-pdf" onclick="triggerPwaInstall()">
+                    <span>📥</span> ॲप इन्स्टॉल करा (Install Now)
+                </button>
+                <button type="button" class="btn btn-secondary" onclick="closePwaModal()">
+                    नंतर करा (Later)
+                </button>
+            </div>
+        </div>
+    </div>
+
     <footer>
         <div class="credits">
-            <p>Developed by</p>
-            <p class="names">Asmita Ashok Mane, Divya Dipak Tandale, Sameena Akbar Shaikh, Sandhya Ganesh Kamble and
-                Shweta Ganpati Lohar</p>
-            <p class="names guide-name">Guide By = A.S. Dongre</p>
+            <p style="font-weight: 700; letter-spacing: 1px; color: var(--primary-light);">- Developed By -</p>
+            <p class="names" style="font-size: 1.2rem; font-weight: 800; margin: 0.25rem auto;">Avinash S. Dongre</p>
+            <p class="names guide-name" style="margin: 0.15rem auto;">C.I. COPA</p>
+            <p class="names" style="color: var(--text-muted); font-weight: 700; margin: 0.15rem auto;">GITI LOHARA DIST. DHARASHIV.</p>
+            <p class="trainee-note">ITI प्रशिक्षणार्थींसाठी द्विभाषिक प्रश्नसंच (Bilingual Question Bank for ITI Trainees)</p>
         </div>
     </footer>
 
+    <!-- GSAP (GreenSock Animation Platform) -->
+    <script src="gsap.min.js"></script>
     <script src="script.js"></script>
 </body>
 

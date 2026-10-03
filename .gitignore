@@ -8,5 +8,10 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Generated/Temporary files
+# Temporary & Test files
 pdf_dump.txt
+*.log
+debug_*
+test_*.pdf
+test_*.png
+scratch_*
