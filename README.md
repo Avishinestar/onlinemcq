@@ -88,7 +88,8 @@ npx serve .
 1. Go to your repository settings on GitHub: **Settings > Pages**.
 2. Under **Build and deployment > Branch**, select `main` and `/ (root)`.
 3. Click **Save**.
-4. Your PWA will be live at `https://<username>.github.io/<repository-name>/`.
+4. Your PWA will be live at:
+   👉 **https://avishinestar.github.io/es/**
 
 ---
 
