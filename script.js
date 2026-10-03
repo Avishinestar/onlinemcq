@@ -92,13 +92,40 @@ if ('serviceWorker' in navigator) {
 }
 
 function isAppInstalledOrStandalone() {
-    return window.matchMedia('(display-mode: standalone)').matches ||
-           window.navigator.standalone === true ||
-           (document.referrer && document.referrer.includes('android-app://'));
+    const isStandalone = window.matchMedia('(display-mode: standalone)').matches ||
+                         window.navigator.standalone === true ||
+                         (document.referrer && document.referrer.includes('android-app://'));
+    const isLocallyMarked = localStorage.getItem('pwa_installed') === 'true';
+    return isStandalone || isLocallyMarked;
 }
 
 function isIOS() {
     return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+}
+
+function hideAllInstallPrompts() {
+    const headerInstallBtn = document.getElementById('pwa-header-install-btn');
+    if (headerInstallBtn) {
+        headerInstallBtn.classList.add('hidden');
+        headerInstallBtn.style.setProperty('display', 'none', 'important');
+    }
+    const modal = document.getElementById('pwa-modal-overlay');
+    if (modal) {
+        modal.classList.add('hidden');
+    }
+}
+
+// Media query listener to detect when user launches/switches to standalone display mode
+if (window.matchMedia) {
+    const mqStandalone = window.matchMedia('(display-mode: standalone)');
+    if (mqStandalone.addEventListener) {
+        mqStandalone.addEventListener('change', (e) => {
+            if (e.matches) {
+                localStorage.setItem('pwa_installed', 'true');
+                hideAllInstallPrompts();
+            }
+        });
+    }
 }
 
 // Listen for beforeinstallprompt event (Chrome, Edge, Android)
@@ -106,16 +133,25 @@ window.addEventListener('beforeinstallprompt', (e) => {
     e.preventDefault();
     deferredInstallPrompt = e;
     
-    // Unhide the header install button
+    // If already installed, never show button or prompt
+    if (isAppInstalledOrStandalone()) {
+        hideAllInstallPrompts();
+        return;
+    }
+
+    // Unhide the header install button only if NOT installed
     const headerInstallBtn = document.getElementById('pwa-header-install-btn');
-    if (headerInstallBtn && !isAppInstalledOrStandalone()) {
+    if (headerInstallBtn) {
         headerInstallBtn.classList.remove('hidden');
+        headerInstallBtn.style.display = '';
     }
 
     // Auto-prompt on opening if not previously dismissed or shown
-    if (!pwaPromptShown && !isAppInstalledOrStandalone()) {
+    if (!pwaPromptShown) {
         setTimeout(() => {
-            openPwaInstallPrompt();
+            if (!isAppInstalledOrStandalone()) {
+                openPwaInstallPrompt();
+            }
         }, 1200);
     }
 });
@@ -123,23 +159,38 @@ window.addEventListener('beforeinstallprompt', (e) => {
 // Detect when PWA has been installed
 window.addEventListener('appinstalled', () => {
     console.log('PWA installed successfully');
+    localStorage.setItem('pwa_installed', 'true');
     deferredInstallPrompt = null;
+    hideAllInstallPrompts();
     closePwaModal();
-    const headerInstallBtn = document.getElementById('pwa-header-install-btn');
-    if (headerInstallBtn) {
-        headerInstallBtn.classList.add('hidden');
-    }
 });
 
-function checkPwaInstallOnLoad() {
+async function checkPwaInstallOnLoad() {
+    // If standalone or previously installed, hide all prompts immediately
     if (isAppInstalledOrStandalone()) {
-        return; // Don't prompt if already running as standalone app
+        hideAllInstallPrompts();
+        return;
     }
 
-    // Ensure header install button is accessible
+    // Check with modern browser API if app is already installed
+    if ('getInstalledRelatedApps' in navigator) {
+        try {
+            const relatedApps = await navigator.getInstalledRelatedApps();
+            if (relatedApps && relatedApps.length > 0) {
+                localStorage.setItem('pwa_installed', 'true');
+                hideAllInstallPrompts();
+                return;
+            }
+        } catch (e) {
+            // ignore if unsupported
+        }
+    }
+
+    // Ensure header install button is accessible if not installed
     const headerInstallBtn = document.getElementById('pwa-header-install-btn');
-    if (headerInstallBtn) {
+    if (headerInstallBtn && !isAppInstalledOrStandalone()) {
         headerInstallBtn.classList.remove('hidden');
+        headerInstallBtn.style.display = '';
     }
 
     // Check if dismissed in this browser session
@@ -155,7 +206,10 @@ function checkPwaInstallOnLoad() {
 }
 
 function openPwaInstallPrompt() {
-    if (isAppInstalledOrStandalone()) return;
+    if (isAppInstalledOrStandalone()) {
+        hideAllInstallPrompts();
+        return;
+    }
 
     pwaPromptShown = true;
     const modal = document.getElementById('pwa-modal-overlay');
@@ -219,6 +273,8 @@ async function triggerPwaInstall() {
         const { outcome } = await deferredInstallPrompt.userChoice;
         console.log(`User response to install prompt: ${outcome}`);
         if (outcome === 'accepted') {
+            localStorage.setItem('pwa_installed', 'true');
+            hideAllInstallPrompts();
             closePwaModal();
         }
         deferredInstallPrompt = null;
