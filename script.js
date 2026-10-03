@@ -139,17 +139,19 @@ window.addEventListener('beforeinstallprompt', (e) => {
         return;
     }
 
-    // Unhide the header install button only if NOT installed
+    // Unhide the header install button ONLY if browser explicitly confirms app is NOT installed
     const headerInstallBtn = document.getElementById('pwa-header-install-btn');
     if (headerInstallBtn) {
         headerInstallBtn.classList.remove('hidden');
-        headerInstallBtn.style.display = '';
+        headerInstallBtn.classList.add('visible');
+        headerInstallBtn.style.setProperty('display', 'inline-flex', 'important');
     }
 
     // Auto-prompt on opening if not previously dismissed or shown
-    if (!pwaPromptShown) {
+    const dismissed = sessionStorage.getItem('pwa_prompt_dismissed');
+    if (!dismissed && !pwaPromptShown) {
         setTimeout(() => {
-            if (!isAppInstalledOrStandalone()) {
+            if (!isAppInstalledOrStandalone() && deferredInstallPrompt) {
                 openPwaInstallPrompt();
             }
         }, 1200);
@@ -186,27 +188,37 @@ async function checkPwaInstallOnLoad() {
         }
     }
 
-    // Ensure header install button is accessible if not installed
-    const headerInstallBtn = document.getElementById('pwa-header-install-btn');
-    if (headerInstallBtn && !isAppInstalledOrStandalone()) {
-        headerInstallBtn.classList.remove('hidden');
-        headerInstallBtn.style.display = '';
-    }
+    // NOTE: On Chrome / Chromium, if the app is already installed,
+    // beforeinstallprompt will NOT fire. So we deliberately keep headerInstallBtn hidden!
 
-    // Check if dismissed in this browser session
-    const dismissed = sessionStorage.getItem('pwa_prompt_dismissed');
-    if (!dismissed && !pwaPromptShown) {
-        // Automatically pop up the PWA prompt on opening
-        setTimeout(() => {
-            if (!pwaPromptShown && !isAppInstalledOrStandalone()) {
-                openPwaInstallPrompt();
-            }
-        }, 1500);
+    // If on iOS Safari (where beforeinstallprompt doesn't exist):
+    if (isIOS() && !isAppInstalledOrStandalone()) {
+        const headerInstallBtn = document.getElementById('pwa-header-install-btn');
+        if (headerInstallBtn) {
+            headerInstallBtn.classList.remove('hidden');
+            headerInstallBtn.classList.add('visible');
+            headerInstallBtn.style.setProperty('display', 'inline-flex', 'important');
+        }
+
+        const dismissed = sessionStorage.getItem('pwa_prompt_dismissed');
+        if (!dismissed && !pwaPromptShown) {
+            setTimeout(() => {
+                if (!isAppInstalledOrStandalone()) {
+                    openPwaInstallPrompt();
+                }
+            }, 1500);
+        }
     }
 }
 
 function openPwaInstallPrompt() {
     if (isAppInstalledOrStandalone()) {
+        hideAllInstallPrompts();
+        return;
+    }
+
+    // If not iOS and no install prompt event is captured, it is already installed or unsupported
+    if (!isIOS() && !deferredInstallPrompt) {
         hideAllInstallPrompts();
         return;
     }
@@ -267,6 +279,12 @@ function closePwaModal() {
     sessionStorage.setItem('pwa_prompt_dismissed', 'true');
 }
 
+function markAsAlreadyInstalled() {
+    localStorage.setItem('pwa_installed', 'true');
+    hideAllInstallPrompts();
+    closePwaModal();
+}
+
 async function triggerPwaInstall() {
     if (deferredInstallPrompt) {
         deferredInstallPrompt.prompt();
@@ -281,7 +299,9 @@ async function triggerPwaInstall() {
     } else if (isIOS()) {
         alert("iPhone/iPad वर इन्स्टॉल करण्यासाठी:\nब्राउझरच्या तळाशी असलेल्या 'Share 📤' बटनावर टॅप करा आणि 'Add to Home Screen ➕' निवडा.");
     } else {
-        alert("ॲप इन्स्टॉल करण्यासाठी आपल्या ब्राउझरच्या ॲड्रेस बारमधील 'इन्स्टॉल' (Install ⊕) चिन्हावर क्लिक करा किंवा मेनूमधून 'Install app / Add to Home screen' निवडा.");
+        // App is either already installed or user installed through browser omnibox
+        localStorage.setItem('pwa_installed', 'true');
+        hideAllInstallPrompts();
         closePwaModal();
     }
 }
@@ -290,6 +310,7 @@ async function triggerPwaInstall() {
 window.openPwaInstallPrompt = openPwaInstallPrompt;
 window.closePwaModal = closePwaModal;
 window.triggerPwaInstall = triggerPwaInstall;
+window.markAsAlreadyInstalled = markAsAlreadyInstalled;
 
 // GSAP Ambient & Header Animations
 function initGSAPAmbientAnimations() {

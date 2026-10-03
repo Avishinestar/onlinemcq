@@ -38,8 +38,8 @@
             </div>
         </div>
 
-        <!-- Quick PWA Install Button in Header -->
-        <button id="pwa-header-install-btn" class="pwa-install-pill-btn hidden" onclick="openPwaInstallPrompt()">
+        <!-- Quick PWA Install Button in Header (hidden by default) -->
+        <button id="pwa-header-install-btn" class="pwa-install-pill-btn hidden" style="display: none;" onclick="openPwaInstallPrompt()">
             <span>📲</span> ॲप इन्स्टॉल करा (Install App)
         </button>
     </header>
@@ -159,7 +159,10 @@
                 <button id="pwa-confirm-install-btn" class="btn btn-download-pdf" onclick="triggerPwaInstall()">
                     <span>📥</span> ॲप इन्स्टॉल करा (Install Now)
                 </button>
-                <button type="button" class="btn btn-secondary" onclick="closePwaModal()">
+                <button type="button" class="btn btn-secondary" onclick="markAsAlreadyInstalled()">
+                    ✅ आधीच इन्स्टॉल केले आहे (Already Installed)
+                </button>
+                <button type="button" class="btn btn-secondary" style="opacity: 0.8; font-size: 0.85rem;" onclick="closePwaModal()">
                     नंतर करा (Later)
                 </button>
             </div>

@@ -1,5 +1,5 @@
 // Service Worker for Online MCQ PWA
-const CACHE_NAME = 'onlinemcq-v1.0.2';
+const CACHE_NAME = 'onlinemcq-v1.0.3';
 const STATIC_ASSETS = [
   './',
   './index.html',

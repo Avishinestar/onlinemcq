@@ -1018,7 +1018,7 @@ footer {
    PWA Installation Prompt UI Styles
    =================================================== */
 .pwa-install-pill-btn {
-    display: inline-flex;
+    display: none; /* Hidden by default! Only shown when beforeinstallprompt fires and app is not installed */
     align-items: center;
     gap: 0.45rem;
     background: linear-gradient(135deg, #10b981, #059669);
@@ -1033,6 +1033,14 @@ footer {
     transition: all 0.25s ease;
     margin-top: 0.85rem;
     animation: pwaPulse 2.5s infinite;
+}
+
+.pwa-install-pill-btn.visible {
+    display: inline-flex !important;
+}
+
+.pwa-install-pill-btn.hidden {
+    display: none !important;
 }
 
 .pwa-install-pill-btn:hover {
